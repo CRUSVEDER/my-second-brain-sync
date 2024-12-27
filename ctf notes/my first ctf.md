@@ -6,7 +6,7 @@ tags:
 ---
 
 screenshot image paste test
-![[../attachments/Pasted image 20241227165227.png]]
+![](../attachments/Pasted%20image%2020241227165227.png)
 
 | 1   | 1   | 1   | 1   |
 | --- | --- | --- | --- |
@@ -15,3 +15,4 @@ screenshot image paste test
 | 11  | 1   | 1   | 1   |
 | 1   | 1   | 1   | 1   |
 | 1   | 1   | 1   | 1   |
+![](../attachments/Pasted%20image%2020241227230423.png)

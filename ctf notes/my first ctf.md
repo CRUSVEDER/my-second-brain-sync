@@ -6,3 +6,4 @@ tags:
 ---
 ![[Pasted image 20241227165227.png]]
 screenshot image paste test
+![[Pasted image 20241227165408.png]]

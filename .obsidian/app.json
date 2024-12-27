@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "newLinkFormat": "relative"
 }

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ctf notes/my first ctf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "my first ctf"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "548c75d4a5bb118a",
@@ -114,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ctf notes/my first ctf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from my first ctf"
             }
           },
           {
@@ -139,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "ctf notes/my first ctf.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of my first ctf"
             }
           }
         ],
@@ -169,6 +171,9 @@
   "active": "22cd1191f1b34124",
   "lastOpenFiles": [
     "README.md",
+    "ctf notes/my first ctf.md",
+    "offensive security notes",
+    "ctf notes",
     "posts/blog 10 Linux Networking Essentials.md",
     "posts/blog 11 Exploring the Linux File System.md",
     "posts/blog 12 Capture the Flag guide.md",
@@ -213,11 +218,8 @@
     "attachments/Daco_4330692.png.crdownload",
     "attachments/Develop-a-Learning-Plan-Template.pdf",
     "attachments/Develop-a-Learning-Plan-Template.pdf.crdownload",
-    "attachments/wireshark-live-capture.png.crdownload",
-    "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png.crdownload",
     "2024-12-02.md",
     "blogposts/my awesome first blog.md",
-    "blogposts/Untitled 1.md",
-    "Untitled 2.md"
+    "blogposts/Untitled 1.md"
   ]
 }

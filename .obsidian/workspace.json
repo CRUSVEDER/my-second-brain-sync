@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "83d700a88e1e90e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "40bcbe42c4f461bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cd1191f1b34124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6554d6f8649f0d42",
+    "type": "split",
+    "children": [
+      {
+        "id": "862127b73a78b01f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdeb42ae17d66d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "deb57375a2e8cfee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:tips_tricks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29c63c297273bbbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "548c75d4a5bb118a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae7034d73c14d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fab8fdb254f8f09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/password Manager.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for password Manager"
+            }
+          },
+          {
+            "id": "213261b5b110e088",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c853fa74960125a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2df03747a2ec0b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "media-extended:Open media": false,
+      "obsidian-git:Open Git source control": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "22cd1191f1b34124",
+  "lastOpenFiles": [
+    "README.md",
+    "posts/blog 10 Linux Networking Essentials.md",
+    "posts/blog 11 Exploring the Linux File System.md",
+    "posts/blog 12 Capture the Flag guide.md",
+    "posts/blog 9 Docker on Linux.md",
+    "posts/blog 8 Introduction to Shell Scripting.md",
+    "posts/blog 7 Kali, Linux commands.md",
+    "posts/blog 6 hacking Environment setup.md",
+    "posts/blog 5 cyber atk cmds.md",
+    "posts/blog 4 really useful tools.md",
+    "posts/blog 3 cybersecurity.md",
+    "posts/blog 2 genshin elemental reaction guide.md",
+    "posts/blog 1 first blog CI&CD pipeline.md",
+    "CTF notes/General skills for ctf.md",
+    "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
+    "TODO/password Manager.md",
+    "TODO/blog topics.md",
+    "TODO/2024 advent of cyber.md",
+    "CTF notes",
+    "attachments/all elem react.png",
+    "attachments/meltreact.png",
+    "attachments/Pasted image 20241220134101.png",
+    "attachments/Screenshot 2024-12-05 175338.png",
+    "attachments/Screenshot 2024-12-11 213435.png",
+    "attachments/wireshark-live-capture.png",
+    "posts/blog 11.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 4.canvas",
+    "2024-12-11.md",
+    "posts/blog 8 Use Shell Scripting to Automate.md",
+    "posts/blog 8 shell script to automate.md",
+    "posts/Genshin/genshin starting tips.md",
+    "posts/Genshin",
+    "attachments/Screenshot 2024-12-05 172637.png",
+    "attachments/CJkR9 (1).png.crdownload",
+    "attachments/7bo861wblef71.png",
+    "attachments/CJkR9.png.crdownload",
+    "attachments/652873b67bded9c39892fbb2_ilo-network-slide-trace-180.png",
+    "attachments/652873b67bded9c39892fbb2_ilo-network-slide-trace-180.png.crdownload",
+    "attachments/Daco_4330692.png.crdownload",
+    "attachments/Develop-a-Learning-Plan-Template.pdf",
+    "attachments/Develop-a-Learning-Plan-Template.pdf.crdownload",
+    "attachments/wireshark-live-capture.png.crdownload",
+    "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png.crdownload",
+    "2024-12-02.md",
+    "blogposts/my awesome first blog.md",
+    "blogposts/Untitled 1.md",
+    "Untitled 2.md"
+  ]
+}

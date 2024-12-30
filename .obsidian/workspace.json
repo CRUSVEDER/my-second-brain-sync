@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Notes/my first ctf.md",
+                "file": "Network Security/network security basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my first ctf"
+              "title": "network security basics"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "f3e1513a82affb9e",
   "lastOpenFiles": [
-    "attachments/Pasted image 20241227165227.png",
-    "attachments/Pasted image 20241227230423.png",
     "CTF Notes/my first ctf.md",
     "Network Security/network security basics.md",
+    "attachments/Pasted image 20241227165227.png",
+    "attachments/Pasted image 20241227230423.png",
     "README.md",
     "Network Security",
     "Offensive Security Notes/wpa&wpa2 attack commands.md",

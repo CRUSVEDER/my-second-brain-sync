@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Notes/folder 1/sub fold 1.1/temp.md",
+                "file": "CTF Notes/my first ctf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "my first ctf"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "ece41a7b29817413",
   "lastOpenFiles": [
+    "Network Security/network security basics.md",
     "CTF Notes/my first ctf.md",
     "CTF Notes/folder 1/sub fold 1.1/temp.md",
     "CTF Notes/folder 1/sub fold 1.1",
@@ -189,7 +190,6 @@
     "attachments/Pasted image 20241231134421.png",
     "attachments/Pasted image 20241231122720.png",
     "attachments/Pasted image 20241231134350.png",
-    "Network Security/network security basics.md",
     "attachments/Pasted image 20241227230423.png",
     "README.md",
     "Network Security",

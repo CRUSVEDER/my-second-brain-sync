@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Notes/my first ctf.md",
+                "file": "ctf notes/my first ctf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
   "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
     "Network Security/network security basics.md",
-    "CTF Notes/my first ctf.md",
+    "ctf notes/my first ctf.md",
     "CTF Notes/folder 1/sub fold 1.1/temp.md",
     "CTF Notes/folder 1/sub fold 1.1",
     "CTF Notes/folder 1",
@@ -206,7 +206,7 @@
     "CS professional certification",
     "attachments",
     "Offensive Security Notes",
-    "CTF Notes",
+    "ctf notes",
     "posts/blog 10 Linux Networking Essentials.md",
     "posts/blog 11 Exploring the Linux File System.md",
     "posts/blog 12 Capture the Flag guide.md",

@@ -23,3 +23,8 @@ screenshot image paste test
 
 
 ![](../attachments/Pasted%20image%2020241231122720.png)
+
+
+![[../attachments/Pasted image 20241231134350.png]]
+
+![[../attachments/Pasted image 20241231134421.png]]

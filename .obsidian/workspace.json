@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
+                "file": "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/2 Write effective Python code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Protect data and communicate incidents"
+              "title": "2 Write effective Python code"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
+                "file": "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/2 Write effective Python code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 Protect data and communicate incidents"
+              "title": "Backlinks for 2 Write effective Python code"
             }
           },
           {
@@ -178,9 +178,10 @@
   },
   "active": "ece41a7b29817413",
   "lastOpenFiles": [
+    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/1 Introduction to Python.md",
+    "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
-    "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/4 Engage with the cybersecurity community.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/5 Find and apply for cybersecurity jobs.md",
     "Google CS professional Certification/files/you-got-this.png",
@@ -217,7 +218,6 @@
     "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/2 Network operations.md",
     "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
     "Google CS professional Certification/3 Connect and Protect - Networks and Network Security",
-    "Google CS professional Certification/2 Play It Safe - Manage Security Risks/4 Use playbooks to respond to incidents.md",
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks",
     "Google CS professional Certification/1 Foundations of Cybersecurity",
     "Google CS professional Certification/files",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Notes/my first ctf.md",
+                "file": "CTF Notes/folder 1/sub fold 1.1/temp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my first ctf"
+              "title": "temp"
             }
           }
         ]
@@ -178,8 +178,11 @@
   },
   "active": "ece41a7b29817413",
   "lastOpenFiles": [
-    "attachments/Pasted image 20241231140919.png",
     "CTF Notes/my first ctf.md",
+    "CTF Notes/folder 1/sub fold 1.1/temp.md",
+    "CTF Notes/folder 1/sub fold 1.1",
+    "CTF Notes/folder 1",
+    "attachments/Pasted image 20241231140919.png",
     "attachments/Pasted image 20241231140159.png",
     "attachments/Pasted image 20241231140853.png",
     "attachments/Pasted image 20241227165227.png",
@@ -225,8 +228,6 @@
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
-    "posts/Genshin",
-    "attachments/CJkR9 (1).png.crdownload",
-    "attachments/CJkR9.png.crdownload"
+    "posts/Genshin"
   ]
 }

@@ -218,10 +218,3 @@ git merge [branch_name] -m "Merge [branch_name] into main"
 - Detailed help: `git config --help`
 - Simple help: `git config -h`
 
-```
-
-### Key Changes for Universal Application:
-- Replaced project-specific names with placeholders like `[project_name]` or `[file_or_directory]`.
-- Used generic file names (`file1.txt`, `file2.txt`) instead of specific extensions.
-- Highlighted applicability to any file type or project.
-```

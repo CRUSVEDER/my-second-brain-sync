@@ -4,6 +4,6 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "autoConvertHtml": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true
 }

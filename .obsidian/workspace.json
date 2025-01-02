@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware/important libraries.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "important libraries"
+              "title": "README"
             }
           }
         ],
@@ -194,9 +194,9 @@
   },
   "active": "2d1849764a63e369",
   "lastOpenFiles": [
+    "Malware/important libraries.md",
     "Git Notes/Git Notes Explained.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
-    "Malware/important libraries.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
     "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/1 Introduction to Python.md",

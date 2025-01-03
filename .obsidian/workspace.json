@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
+                "file": "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Communicate effectively to influence stakeholders"
+              "title": "1 Introduction to asset security"
             }
           }
         ]
@@ -178,14 +178,19 @@
   },
   "active": "7fb281ce791317bc",
   "lastOpenFiles": [
+    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
+    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
+    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
+    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
+    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/2 Network monitoring and analysis.md",
+    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/3 Incident investigation and response.md",
+    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/4 Network traffic and logs using IDS and SIEM tools.md",
+    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/1 Introduction to Python.md",
+    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/2 Write effective Python code.md",
+    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/3 Work with strings and lists.md",
+    "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
-    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/3 Work with strings and lists.md",
-    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/2 Write effective Python code.md",
-    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/1 Introduction to Python.md",
-    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/2 Network monitoring and analysis.md",
-    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/4 Network traffic and logs using IDS and SIEM tools.md",
-    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/3 Incident investigation and response.md",
     "Git Notes/Git Notes Explained.md",
     "Network Security/network security basics.md",
     "Malware/important libraries.md",
@@ -197,12 +202,7 @@
     "attachments/oldtest first.png",
     "attachments/Pasted image 20241231134350.png",
     "attachments/Pasted image 20241231134421.png",
-    "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
     "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/4 Python in practice.md",
-    "Google CS professional Certification/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
     "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/4 Databases and SQL.md",
     "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/3 Linux commands in the Bash shell.md",

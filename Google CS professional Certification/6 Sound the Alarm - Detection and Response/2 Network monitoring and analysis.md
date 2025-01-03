@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Network
 
 - IoC: Indicators of compromise, observable evidence that there may have been a security incident

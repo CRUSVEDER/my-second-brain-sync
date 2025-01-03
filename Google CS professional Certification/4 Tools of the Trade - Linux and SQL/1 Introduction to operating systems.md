@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Common operating systems
 
 - Windows: Introduced 1985, closed source.

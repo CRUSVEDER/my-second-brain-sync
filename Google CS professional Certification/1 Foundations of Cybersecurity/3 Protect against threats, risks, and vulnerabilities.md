@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Security framework core components
 
 1. Identify & document security goals

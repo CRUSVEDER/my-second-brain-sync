@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Indicators
 
 - Indicators of Compromise: Observable evidence that suggests potential security incident.

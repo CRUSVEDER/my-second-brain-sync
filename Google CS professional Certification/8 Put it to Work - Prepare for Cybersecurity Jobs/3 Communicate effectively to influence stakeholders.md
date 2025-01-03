@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Stakeholders
 
 - Risk managers: Identify risks, manage security incident responses, notify legal, notify PR.

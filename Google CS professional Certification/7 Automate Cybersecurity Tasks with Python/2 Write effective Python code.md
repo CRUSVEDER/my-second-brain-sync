@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Anything unusual
 
 - `def`: Same as `fun`.

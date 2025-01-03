@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## History
 
 - UNIX OS was already in use.

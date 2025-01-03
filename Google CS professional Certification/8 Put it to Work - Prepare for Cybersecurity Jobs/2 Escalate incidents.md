@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Common incident types
 
 - Malware infection

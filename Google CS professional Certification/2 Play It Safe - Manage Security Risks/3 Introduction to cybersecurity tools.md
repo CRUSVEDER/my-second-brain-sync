@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Common types of logs
 
 - Firewall log: Attempted / established connections for incoming / outgoing requests

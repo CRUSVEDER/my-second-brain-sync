@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Types of network
 
 - LAN: Local area network, e.g. a building.

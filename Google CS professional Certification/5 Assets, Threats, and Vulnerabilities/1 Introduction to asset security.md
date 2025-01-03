@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Risk: Anything that can impact the CIA triad (confidentiality, integrity, availability) of an asset.
 
 ## Security plan

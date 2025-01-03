@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Playbooks
 
 A manual that provides details about any operational action. Also clarify tools should be used. Updated often, a living document.

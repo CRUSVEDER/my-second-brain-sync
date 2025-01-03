@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## CISSP's 8 security domains
 
 1. Security goals and risk management:

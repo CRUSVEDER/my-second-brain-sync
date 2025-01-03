@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Security controls
 
 Safeguards designed to reduce specific security risks

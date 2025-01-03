@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "40bcbe42c4f461bd",
+        "id": "6f395cc1aa54b4ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ece41a7b29817413",
+            "id": "7fb281ce791317bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3 Vulnerabilities in systems"
-            }
-          },
-          {
-            "id": "2d1849764a63e369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 Communicate effectively to influence stakeholders"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +171,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d1849764a63e369",
+  "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
+    "attachments/oldtest first.png",
+    "attachments/Pasted image 20241231134350.png",
+    "attachments/Pasted image 20241231134421.png",
+    "attachments/new.png",
+    "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
+    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
     "Google CS professional Certification/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
     "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/4 Python in practice.md",
@@ -205,7 +190,6 @@
     "Google CS professional Certification/6 Sound the Alarm - Detection and Response/2 Network monitoring and analysis.md",
     "Google CS professional Certification/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
     "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/4 Databases and SQL.md",
@@ -218,8 +202,6 @@
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks/4 Use playbooks to respond to incidents.md",
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks/3 Introduction to cybersecurity tools.md",
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks/2 Security frameworks and controls.md",
-    "Google CS professional Certification/2 Play It Safe - Manage Security Risks/1 Security domains.md",
-    "Google CS professional Certification/1 Foundations of Cybersecurity/4 Cybersecurity tools and programming languages.md",
     "Google CS professional Certification/files/you-got-this.png",
     "Google CS professional Certification/files/unrealistic.png",
     "Google CS professional Certification/files/tcpip-vs-osi-models.png",
@@ -227,9 +209,6 @@
     "Google CS professional Certification/files/provisioning.png",
     "Google CS professional Certification/files/ipv4-packet.png",
     "Google CS professional Certification/files/joining course spam.png",
-    "Google CS professional Certification/files/malware.png",
-    "Google CS professional Certification/files/challenge-yourself.png",
-    "Google CS professional Certification/files/ahead-of-the-game.png",
     "Google CS professional Certification/6 Sound the Alarm - Detection and Response",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities",
     "Google CS professional Certification/4 Tools of the Trade - Linux and SQL",

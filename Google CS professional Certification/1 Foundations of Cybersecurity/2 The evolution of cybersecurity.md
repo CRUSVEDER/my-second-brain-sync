@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 3 malware examples
 
 - Brain virus: 1986, Alvi brothers, accidentally infected disks too.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## SIEM tools
 
 SIEM tools = security information and event management tools. E.g.:

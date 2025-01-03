@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Security frameworks
 
 A starting point for building plans to help mitigate risks and threats to data and privacy.

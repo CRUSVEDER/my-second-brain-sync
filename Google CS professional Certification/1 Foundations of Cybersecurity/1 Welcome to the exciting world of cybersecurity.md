@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Possible job titles
 
 - Security analyst or specialist

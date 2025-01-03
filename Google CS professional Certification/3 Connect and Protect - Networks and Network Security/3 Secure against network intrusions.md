@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Types of attack
 
 ### Network interception attacks

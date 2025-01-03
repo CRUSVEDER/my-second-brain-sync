@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Files
 
 ### Opening a file

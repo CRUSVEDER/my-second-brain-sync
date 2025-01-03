@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Basic commands
 
 - `pwd`: Print Working Directory (e.g. current)

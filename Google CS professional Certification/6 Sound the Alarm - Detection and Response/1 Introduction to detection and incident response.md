@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Incident response lifecycles
 
 NIST CSF (recap): Identify, Protect, Detect, Respond, Recover

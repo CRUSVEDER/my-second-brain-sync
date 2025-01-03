@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Overview
 
 Security hardening: Strengthening a system to reduce its vulnerabilty and attack surface.

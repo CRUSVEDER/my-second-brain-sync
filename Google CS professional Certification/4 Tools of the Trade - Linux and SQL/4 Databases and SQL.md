@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Limited notes here due to existing SQL knowledge.
 
 ## Example wildcard filters

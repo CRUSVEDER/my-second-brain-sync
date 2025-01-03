@@ -57,6 +57,4 @@ Basic classification is:
 1. Passive, bare minimum
 2. Adaptive, performed at exemplary standards
 
-### Profiles
 
-Profiling current state of a security system

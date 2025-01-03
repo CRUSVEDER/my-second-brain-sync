@@ -98,6 +98,3 @@ Note: an APT (advanced persistent threat) is when a threat actor has access for 
 - Applying least privilege
 - Using right security controls & tools
 
-## Feedback
-
-The course is very consistent. Every video is high quality, fits into the theme, etc.

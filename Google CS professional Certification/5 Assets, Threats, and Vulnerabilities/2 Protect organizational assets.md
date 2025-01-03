@@ -62,8 +62,4 @@ Manage authentication, authorization, and accountability of information (AAA fra
 - DAC (Discretionary access control): Data owner decides access (e.g. google doc perms).
 - RBAC (Role-based access control): Authorization controlled by roles.
 
-## Feedback
 
-There's so much effort put into the animations and created videos! It undeniably helps create a high quality, engaging experience.
-
-It's good that during the labs, commands are copyable. Typing would be pointless busywork.

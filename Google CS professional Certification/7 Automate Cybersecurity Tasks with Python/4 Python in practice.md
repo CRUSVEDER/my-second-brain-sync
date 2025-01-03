@@ -25,6 +25,3 @@ dg-publish: true
 - Name error: Messed up the naming (e.g. var name).
 - Logic error: Code compiles, but doesn't do what was expected.
 
-## Feedback
-
-The "WOW, WELL DONE" is a bit excessive at times. It's perhaps just cultural, but phrases like "I really enjoyed debugging this code with you" just feel infantilising.

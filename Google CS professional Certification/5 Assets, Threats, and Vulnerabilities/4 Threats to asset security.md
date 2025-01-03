@@ -102,6 +102,4 @@ Identifying assets, their vulnerabilities, and how each is exposed to threats. T
 
 There's also "Trike", "VAST" (Visual, Agile, Simple Threat), "STRIDE" (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege).
 
-## Feedback
 
-This topic got a bit derailed into providing end user advice. Whilst sure, this is part of cybersecurity, it feels a bit too "entry level" for the 5th course in the cert.

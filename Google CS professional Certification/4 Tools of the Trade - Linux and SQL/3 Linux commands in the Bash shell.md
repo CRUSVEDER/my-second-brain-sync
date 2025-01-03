@@ -96,6 +96,4 @@ Similar to piping, angle brackets can send output into a file. `>` overwrites, `
 - `whatis`: Provides a one-line summary of a command.
 - `apropos`: Search man docs by a term, can also call with `-a` for multiple terms.
 
-## Feedback
 
-Lab is again excellent, requiring applying knowledge instead of explicitly stating what needs to be done. It's great that Reddit / Unix & Linux Stack Exchange are mentioned / linked, many courses skip the "real world" information finding.

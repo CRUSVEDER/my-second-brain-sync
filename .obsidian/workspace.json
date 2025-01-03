@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/Nessus.md",
+                "file": "reports/OpenVAS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nessus"
+              "title": "OpenVAS"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "7fb281ce791317bc",
   "lastOpenFiles": [
-    "reports/OpenVAS.md",
     "reports/Nessus.md",
+    "reports/OpenVAS.md",
     "Git Notes/Git Notes Explained.md",
     "reports",
     "README.md",

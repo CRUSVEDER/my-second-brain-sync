@@ -22,6 +22,4 @@ dg-publish: true
 - Kernel-based Virtual Machine (KVM) is an open source hypervisor built into Linux kernel.
 - Can also have virtual servers, virtual networks, etc.
 
-## Feedback
 
-An odd conflict between the absolute basics "what does an OS do" and more advanced "here's how VM virtualization works"! Also needed to play all content at 1.5x.

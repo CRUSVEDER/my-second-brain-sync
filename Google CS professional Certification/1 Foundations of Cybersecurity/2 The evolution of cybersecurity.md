@@ -32,10 +32,4 @@ dg-publish: true
 7. Security operations: Investigations, preventative measures.
 8. Software development security: Coding securely!
 
-## Feedback
 
-Nice focus on examples now we're more "into the meat". Example is briefly described, then the relevant topic introduced. Nice!
-
-Quizzes during videos help stay engaged, and being able to click transcript to load that part is great.
-
-Different types of activity (reading, video, quiz, flashcards) keep it fresh.

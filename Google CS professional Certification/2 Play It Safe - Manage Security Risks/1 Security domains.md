@@ -65,6 +65,3 @@ Levels of risk:
 
 OWASP is still updated! Long time no see: <https://owasp.org/www-project-top-ten/>
 
-## Feedback
-
-All the positive feedback is a little jarring after plain, logical language. It's quite "American". E.g. "You did a fantastic job adding new knowledge to your security analyst toolkit ... Keep up the great work!".

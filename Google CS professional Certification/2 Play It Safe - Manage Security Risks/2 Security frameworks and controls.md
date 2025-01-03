@@ -60,6 +60,3 @@ Usually just internal security team (and compliance officer):
 - Assessing compliance
 - Communicating results
 
-## Feedback
-
-Having the same "host" throughout a course helps stay "centred", even when there are guest speakers.

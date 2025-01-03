@@ -27,8 +27,3 @@ Some types:
 5. Post-incident activity: Document actions, inform org leaders, apply lessons learned.
 6. Coordination: Reporting incidents & sharing info throughout the process.
 
-## Feedback
-
-Some speakers are _very_ slow! 1.5x is required sometimes.
-
-You absolutely could skim this by just doing the readings, and complete a course in an hour or two. My time is 70% waiting for videos, 20% reading, 10% tests / revising.

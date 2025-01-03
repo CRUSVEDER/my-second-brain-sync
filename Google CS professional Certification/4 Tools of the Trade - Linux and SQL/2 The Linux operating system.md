@@ -59,6 +59,4 @@ Variations:
 - tcsh: Enhanced C Shell
 - zsh: Z Shell
 
-## Feedback
 
-Labs are great! First time using qwiklabs, it all went super smoothly. This is the first time it feels like you're actually REQUIRED to understand the content, not just parrot it.

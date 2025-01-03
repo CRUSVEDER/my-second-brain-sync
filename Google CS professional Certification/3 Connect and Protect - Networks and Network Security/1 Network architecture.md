@@ -51,6 +51,3 @@ So an example flow is device -> router -> modem -> internet -> modem -> router -
 
 ![](files/ipv4-vs-ipv6.png)
 
-## Feedback
-
-A very dense module! Lots of good information, explained effectively. A great refresher of comp sci at uni.

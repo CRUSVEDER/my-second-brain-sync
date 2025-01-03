@@ -123,6 +123,4 @@ Types:
 - Reverse proxy: Handles request TO a user from the wider internet.
 - Email proxy: Handles spam emails etc.
 
-## Feedback
 
-Continuing to ramp up the data density, great! The reading adds extra detail to the videos, and ensures people who prefer reading info (me) can learn.

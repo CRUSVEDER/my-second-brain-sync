@@ -1,3 +1,6 @@
+---
+dg-publish:
+---
 
 
 - [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) - Write-ups for CTF challenges by 0e85dc6eaf

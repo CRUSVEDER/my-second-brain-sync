@@ -1,3 +1,6 @@
+---
+dg-publish:
+---
 
 # Git Workflow and Commands Explained
 

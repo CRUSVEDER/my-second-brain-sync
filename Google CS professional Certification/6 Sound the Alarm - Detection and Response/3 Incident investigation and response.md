@@ -11,8 +11,7 @@ Higher on the IoC pyramid = harder for an attacker to work around any blocks.
 
 TTP = Tactics, techniques, and procedures.
 
-[![](files/pyramidofpain.png)](files/pyramidofpain.png)
-
+![](../files/pyramidofpain.png)
 ## Documentation
 
 3 benefits:

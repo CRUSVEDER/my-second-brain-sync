@@ -32,7 +32,7 @@ Examples:
 
 ### tcpdump
 
-![](files/tcpdump.png)
+![](../files/tcpdump.png)
 
 ### Packet sniffing
 

@@ -1,5 +1,5 @@
 ---
-dg-publish: 
+dg-publish: true
 date: 2025-01-04
 tags:
   - report

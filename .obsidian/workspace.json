@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/OpenVAS.md",
+                "file": "Web Exploitation/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenVAS"
+              "title": "Untitled"
             }
           }
         ]
@@ -176,16 +176,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fb281ce791317bc",
+  "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
+    "Binary Exploitations/Untitled.md",
+    "Cryptography/Untitled.md",
+    "Ctf Notes/ctf basics.md",
+    "Ctf Notes/Collections of CTF write-ups.md",
+    "Forensics/Untitled.md",
+    "General Skills/Untitled.md",
+    "Ctf Notes/Untitled.md",
+    "Git Notes/Git Notes Explained.md",
+    "Malware/important libraries.md",
+    "Network Security/network security basics.md",
+    "Reconnaissance/Untitled.md",
+    "Reverse Engineering/Untitled.md",
+    "Web Exploitation/Untitled.md",
+    "reports/OpenVAS.md",
     "reports/Nessus.md",
     "README.md",
-    "reports/OpenVAS.md",
     "attachments/openvaslogo.png",
     "attachments/nessuslogo.png",
     "attachments/nessuslogo.png.crdownload",
     "attachments/openvaslogo.png.crdownload",
-    "Git Notes/Git Notes Explained.md",
     "reports",
     "Google CS professional Certification/files/tcpdump.png",
     "Google CS professional Certification/files/pyramidofpain.png",
@@ -205,17 +217,6 @@
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks/1 Security domains.md",
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks/2 Security frameworks and controls.md",
     "Google CS professional Certification/2 Play It Safe - Manage Security Risks/3 Introduction to cybersecurity tools.md",
-    "Google CS professional Certification/2 Play It Safe - Manage Security Risks/4 Use playbooks to respond to incidents.md",
-    "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
-    "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/2 Network operations.md",
-    "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/3 Secure against network intrusions.md",
-    "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/4 Security hardening.md",
-    "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/1 Introduction to operating systems.md",
-    "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/2 The Linux operating system.md",
-    "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/3 Linux commands in the Bash shell.md",
-    "Google CS professional Certification/4 Tools of the Trade - Linux and SQL/4 Databases and SQL.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
     "Google CS professional Certification/6 Sound the Alarm - Detection and Response",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities",
     "Google CS professional Certification/4 Tools of the Trade - Linux and SQL",

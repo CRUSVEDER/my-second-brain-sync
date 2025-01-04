@@ -1,5 +1,5 @@
 ---
-dg-publish:
+dg-publish: true
 ---
 
 # Git Workflow and Commands Explained

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/Linux Commands.md",
+                "file": "Network Security/network security basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Commands"
+              "title": "network security basics"
             }
           }
         ],
@@ -194,6 +194,7 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "General Skills/Linux Commands.md",
     "dictate test.md",
     "attachments/Win11_24H2_EnglishInternational_x64.iso",
     "attachments/Unconfirmed 114930.crdownload",
@@ -203,7 +204,6 @@
     "Ctf Notes/ctf basics.md",
     "Ctf Notes/Collections of CTF write-ups.md",
     "Forensics/Untitled.md",
-    "General Skills/Linux Commands.md",
     "Ctf Notes/Untitled.md",
     "Git Notes/Git Notes Explained.md",
     "Malware/important libraries.md",

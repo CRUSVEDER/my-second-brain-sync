@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/network security basics.md",
+                "file": "Web Exploitation/SQL Injection Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "network security basics"
+              "title": "SQL Injection Basics"
             }
           }
         ],
@@ -194,11 +194,12 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "Network Security/network security basics.md",
     "General Skills/Linux Commands.md",
     "dictate test.md",
     "attachments/Win11_24H2_EnglishInternational_x64.iso",
     "attachments/Unconfirmed 114930.crdownload",
-    "Web Exploitation/Untitled.md",
+    "Web Exploitation/SQL Injection Basics.md",
     "Binary Exploitations/Untitled.md",
     "Cryptography/Untitled.md",
     "Ctf Notes/ctf basics.md",
@@ -207,7 +208,6 @@
     "Ctf Notes/Untitled.md",
     "Git Notes/Git Notes Explained.md",
     "Malware/important libraries.md",
-    "Network Security/network security basics.md",
     "Reconnaissance/Untitled.md",
     "Reverse Engineering/Untitled.md",
     "reports/OpenVAS.md",

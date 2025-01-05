@@ -22,94 +22,66 @@ dg-publish: true
 16. **ln** - Create a link to a file or directory.v
 
 
+**B. System Management Commands:** 
 
----
+17. **clear** - Clear the console.  
+18. **useradd** - Add a new user to the system.  
+19. **sudo** - Run a command with administrative privileges.  
+20. **adduser** - Add a new user to the system with more options than useradd.  
+21. **su** - Switch to another user account.  
+22. **exit** - Close the current terminal or log out of the current user account.  
+23. **sudo passwd** - Change the password for the current user.  
+24. **sudo passwd [username]** - Change the password for another user.  
+25. **sudo apt** - A package manager used to install, update and remove software packages            on Debian-based systems.  
+26. **2sudo apt update & install** - Update package lists and install packages.  
+27. **finger** - Display information about a user.  
+28. **man** - Display the manual page of a command.  
+29. **whatis** - Display a brief description of a command.  
+30. **which** - Locate a command and display its path.  
+31. **whereis** - Locate the binary, source, and manual page files for a command.  
+32. **wget** - Download files from the web.  
+33. **curl** - Transfer data to or from a server.  
+34. **zip** - Compress files into a zip archive.  
+35. **unzip** - Extract files from a zip archive.  
+36. **less** - View a file one page at a time.
 
-**Top 60 Linux Commands Cheat Sheet**
+**C. File Comparison and Manipulation C****ommands:**
 
----
+37. **head** - Display the first lines of a file.  
+38. **tail** - Display the last lines of a file.  
+39. **cmp** - Compare two files byte by byte.  
+40. **diff** - Display the differences between two files.  
+41. **sort** - Sort the lines of a file.  
+42. **find** - Search for files in a directory hierarchy.  
+43. **chmod** - Change the permissions of a file or directory.  
+44. **chown** - Change the owner of a file or directory.
 
-**A. File and Directory Management Commands**
+**D. Networking Management & Monitoring Commands:** 
 
-- `ssh`: Secure Shell, used for secure remote access to a system.
-- `ls`: List directory contents.
-- `pwd`: Print the current working directory.
-- `cd`: Change directory to a different folder.
-- `touch`: Create an empty file or update the modified timestamp of an existing file.
-- `echo`: Print a message or the value of a variable.
-- `nano`: A simple text editor.
-- `vim`: A more advanced text editor with many features.
-- `cat`: Print the contents of a file to the console.
-- `shred`: Securely delete a file by overwriting its contents.
-- `mkdir`: Create a new directory.
-- `cp`: Copy a file from one location to another.
-- `mv`: Move a file from one location to another, or rename a file.
-- `rm`: Remove a file.
-- `rmdir`: Remove a directory if it is empty.
-- `ln`: Create a link to a file or directory.
-- `head`: Display the first lines of a file.
-- `tail`: Display the last lines of a file.
-- `cmp`: Compare two files byte by byte.
-- `diff`: Display the differences between two files.
-- `sort`: Sort the lines of a file.
-- `find`: Search for files in a directory hierarchy.
-- `chmod`: Change the permissions of a file or directory.
-- `chown`: Change the owner of a file or directory.
+45. **ifconfig** - Configure network interfaces.  
+46. **ip address -** Display IP address information.  
+47. **ip address | grep eth0** - Display the IP address of the eth0 interface.  
+48. **ip address | grep eth0 | grep inet | awk** - Display the IP address of the eth0 interface             using awk.  
+49. **resolvectl status** - Display the current DNS resolver configuration.  
+50. **ping** - Test network connectivity by sending packets to a host.  
+51. **netstat** - Display network connections, routing tables, and interface statistics.  
+52. **-tulpn** - Display active listening ports and associated programs.  
+53. **ss** - Display socket statistics.  
+54. **iptables** - Configure and administer the netfilter firewall.  
+55. **ufw** - A user-friendly interface to manage iptables firewall rules.\
 
----
+**E. System Information & Process Management Commands****:**
 
-**B. System Management Commands**
-
-- `clear`: Clear the console.
-- `useradd`: Add a new user to the system.
-- `sudo`: Run a command with administrative privileges.
-- `adduser`: Add a new user to the system with more options than `useradd`.
-- `su`: Switch to another user account.
-- `exit`: Close the current terminal or log out of the current user account.
-- `sudo passwd`: Change the password for the current user.
-- `sudo passwd [username]`: Change the password for another user.
-- `sudo apt`: A package manager used to install, update, and remove software packages on Debian-based systems.
-- `sudo apt update & install`: Update package lists and install packages.
-- `finger`: Display information about a user.
-- `man`: Display the manual page of a command.
-- `whatis`: Display a brief description of a command.
-- `which`: Locate a command and display its path.
-- `whereis`: Locate the binary, source, and manual page files for a command.
-- `wget`: Download files from the web.
-- `curl`: Transfer data to or from a server.
-- `zip`: Compress files into a zip archive.
-- `unzip`: Extract files from a zip archive.
-- `less`: View a file one page at a time.
-
----
-
-**C. File Comparison & Manipulation Commands**
-
-- `ifconfig`: Configure network interfaces.
-- `ip address`: Display IP address information.
-- `ping`: Test network connectivity by sending packets to a host.
-- `resolvectl status`: Display the current DNS resolver configuration.
-- `netstat`: Display network connections, routing tables, and interface statistics.
-- `iptables`: Configure and administer the netfilter firewall.
-- `ufw`: A user-friendly interface to manage iptables firewall rules.
-
----
-
-**D. Networking Management & Monitoring Commands**
-
-- `uname`: Print system information, including kernel name, network node hostname, kernel release, and kernel version.
-- `neofetch`: Display system information in a colorful and visually appealing way.
-- `cal`: Display a calendar of the current month or year.
-- `free`: Display the amount of free and used system memory.
-- `df` and `df -h`: Display disk usage statistics for a file system.
-- `ps`: Report a snapshot of current processes.
-- `top`: Display dynamic real-time information about running processes.
-- `kill`: Send a signal to terminate a process.
-- `pkill`: Send a signal to terminate one or more processes based on their name.
-- `systemctl`: Control the system and service manager.
-- `history`: Display previously executed commands.
-- `sudo reboot`: Reboot the system with administrative privileges.
-- `shutdown`: Shutdown or reboot the system.
-
----
-
+56. **uname** - Print system information, including kernel name, network node hostname,                kernel release, and kernel version.  
+57. **neofetch** - Display system information in a colorful and visually appealing way.  
+58. **cal** - Display a calendar of the current month or year.  
+59. **free -** Display the amount of free and used system memory.  
+60. **df and df-H** - Display disk usage statistics for a file system.  
+61. **ps** - Report a snapshot of current processes.  
+62. **top** - Display dynamic real-time information about running processes.  
+63. **kill** - Send a signal to terminate a process.  
+64. **pkill** - Send a signal to terminate one or more processes based on their name.  
+65. **systemctl** - Control the systemd system and service manager.  
+66. **history** - Display previously executed commands.  
+67. **sudo reboot** - Reboot the system with administrative privileges.  
+68. **shutdown** - Shutdown or reboot the system.

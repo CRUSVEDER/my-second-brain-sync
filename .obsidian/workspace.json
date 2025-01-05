@@ -189,8 +189,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false,
-      "whisper:Open recording controls": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4c602ac5fbbf16e8",

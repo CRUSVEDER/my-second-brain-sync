@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Network architecture"
+              "title": "README"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
     "posts/blog 1 first blog CI&CD pipeline.md",
     "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
     "attachments/wireshark-live-capture.png",

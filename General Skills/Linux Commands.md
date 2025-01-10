@@ -32,7 +32,7 @@ dg-publish: true
 22. **exit** - Close the current terminal or log out of the current user account.  
 23. **sudo passwd** - Change the password for the current user.  
 24. **sudo passwd [username]** - Change the password for another user.  
-25. **sudo apt** - A package manager used to install, update and remove software packages            on Debian-based systems.  
+25. **sudo apt** - A package manager used to install, update and remove software   packages on Debian-based systems.  
 26. **2sudo apt update & install** - Update package lists and install packages.  
 27. **finger** - Display information about a user.  
 28. **man** - Display the manual page of a command.  
@@ -45,7 +45,7 @@ dg-publish: true
 35. **unzip** - Extract files from a zip archive.  
 36. **less** - View a file one page at a time.
 
-**C. File Comparison and Manipulation C****ommands:**
+**C. File Comparison and Manipulation Commands:**
 
 37. **head** - Display the first lines of a file.  
 38. **tail** - Display the last lines of a file.  
@@ -70,7 +70,7 @@ dg-publish: true
 54. **iptables** - Configure and administer the netfilter firewall.  
 55. **ufw** - A user-friendly interface to manage iptables firewall rules.\
 
-**E. System Information & Process Management Commands****:**
+**E. System Information & Process Management Commands:**
 
 56. **uname** - Print system information, including kernel name, network node hostname,                kernel release, and kernel version.  
 57. **neofetch** - Display system information in a colorful and visually appealing way.  

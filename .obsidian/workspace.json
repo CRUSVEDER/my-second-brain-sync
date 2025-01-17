@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuwa/substat rolls.md",
+                "file": "games data/wuwa/substat rolls.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,15 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c602ac5fbbf16e8",
+  "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
+    "games data",
     "projects/Developing a vulnerability scanner.md",
     "README.md",
     "projects",
     "Google CS professional Certification/1 Foundations of Cybersecurity/1 Welcome to the exciting world of cybersecurity.md",
-    "wuwa/substat rolls.md",
+    "games data/wuwa/substat rolls.md",
     "General Skills/Linux Commands.md",
-    "wuwa",
+    "games data/wuwa",
     "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
     "posts/blog 1 first blog CI&CD pipeline.md",
     "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
@@ -214,7 +215,6 @@
     "Network Security/linux-networking-essentials.md",
     "aptitude",
     "Network Security/network security basics.md",
-    "Git Notes/Git Notes Explained.md",
     "attachments/Win11_24H2_EnglishInternational_x64.iso",
     "attachments/Unconfirmed 114930.crdownload",
     "attachments/openvaslogo.png",

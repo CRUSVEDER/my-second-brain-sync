@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hackquest/preparation.md",
+                "file": "projects/project lists.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "preparation"
+              "title": "project lists"
             }
           }
         ]
@@ -178,11 +178,12 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "games data/wuwa/substat rolls.md",
+    "projects/Developing a vulnerability scanner.md",
+    "projects/project lists.md",
     "hackquest/preparation.md",
+    "games data/wuwa/substat rolls.md",
     "hackquest",
     "games data",
-    "projects/Developing a vulnerability scanner.md",
     "README.md",
     "projects",
     "Google CS professional Certification/1 Foundations of Cybersecurity/1 Welcome to the exciting world of cybersecurity.md",
@@ -216,7 +217,6 @@
     "reports/Nessus.md",
     "Network Security/linux-networking-essentials.md",
     "aptitude",
-    "Network Security/network security basics.md",
     "attachments/Win11_24H2_EnglishInternational_x64.iso",
     "attachments/Unconfirmed 114930.crdownload",
     "attachments/openvaslogo.png",

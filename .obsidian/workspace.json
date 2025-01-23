@@ -11,13 +11,15 @@
             "id": "4c602ac5fbbf16e8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "hackquest/preparation.md",
-                "staged": false
+                "file": "_hackquest/res 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (preparation)"
+              "icon": "lucide-file",
+              "title": "res 2"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware/important libraries.md",
+                "file": "_hackquest/res 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for important libraries"
+              "title": "Backlinks for res 2"
             }
           },
           {
@@ -111,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_hackquest/res 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from res 2"
             }
           },
           {
@@ -136,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "_hackquest/res 2.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of res 2"
             }
           },
           {
@@ -170,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,15 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2df03747a2ec0b0",
+  "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "hackquest/preparation.md",
-    "hackquest/res 2.md",
-    "hackquest/resources.md",
+    "_hackquest/preparation.md",
+    "_hackquest/res 2.md",
+    "_hackquest/resources.md",
     "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",
     "games data/wuwa/substat rolls.md",
-    "hackquest",
+    "_hackquest",
     "games data",
     "README.md",
     "projects",

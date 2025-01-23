@@ -143,3 +143,48 @@ This roadmap provides a comprehensive yet flexible pathway for each level. Let m
 
 
 ---
+
+
+## TCS HackQuest Topics
+
+Candidates need to get trained in Security domains as listed below for getting an edge in the TCS HackQuest 2024:
+
+- Application Security  
+     
+- Network Security   
+     
+- [Java](https://www.naukri.com/code360/java-data-structures-and-algorithms-course)/J2EE, PHP, [Python](https://www.naukri.com/code360/python-data-structures-and-algorithms-course), GO  
+     
+- Information security & risk management   
+     
+- Ethical Hacking   
+     
+- Any security specific certification like Security+, CEH, ISO-27001, etc
+
+## Preparation Tips
+
+TCS Hackquest is for candidates who are genuinely interested in Ethical Hacking and have at least intermediate knowledge in Web Application Pentesting.
+
+You can brush up on the following concepts for TCS HackQuest.
+
+- Get familiarised with the OWASP Top 10 Vulnerabilities at the firm level.  
+     
+- Learn about the basics of Burp Suite (YouTube Tutorial).  
+     
+- Usually, you are allotted a PHP application, so get ideas about PHP Vulnerabilities.  
+     
+- Meanwhile, you can get some hands-on experience by analyzing vulnerable web applications such as [BWAPP](http://www.itsecgames.com/) and you can take a quick reference from [Github](https://github.com/enaqx/awesome-pentest).
+
+## Resources to Prepare for TCS Hackquest
+
+Coding Ninjas has launched the best [course for complete preparation of TCS Hackquest,](https://www.codingninjas.com/courses/service-based-courses) TCS, IBM, Infosys, and other similar exams and companies.
+
+### Course Highlights
+
+- Covers everything you need to learn, Programming(C++/Java/Python), Aptitude(Quantitative Analysis, Logical Reasoning, Verbal Reasoning).  
+     
+- Faculties are best in the industry: **Arun Sharma** (India’s best selling author for CAT Aptitude Books) and **Ankush Singla** (Ex-Facebook, Ex-Amazon)  
+     
+- **1-1 live doubt support** via Audio/Video Calls whenever you are stuck.  
+     
+- Coding Ninjas Placement Cell access.

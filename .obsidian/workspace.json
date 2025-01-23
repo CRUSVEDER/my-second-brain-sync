@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hackquest/Untitled.md",
+                "file": "hackquest/preparation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "preparation"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "hackquest/res 2.md",
     "hackquest/resources.md",
-    "hackquest/Untitled.md",
     "hackquest/preparation.md",
     "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",

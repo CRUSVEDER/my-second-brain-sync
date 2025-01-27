@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_hackquest/res 2.md",
+                "file": "Cryptography/cipher types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res 2"
+              "title": "cipher types"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_hackquest/res 2.md"
+                "file": "Cryptography/cipher types.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of res 2"
+              "title": "Outline of cipher types"
             }
           },
           {
@@ -191,8 +191,8 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "_hackquest/preparation.md",
     "_hackquest/res 2.md",
+    "_hackquest/preparation.md",
     "_hackquest/resources.md",
     "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",

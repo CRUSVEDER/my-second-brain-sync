@@ -11,15 +11,12 @@
             "id": "4c602ac5fbbf16e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_hackquest/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "attachments/Pasted image 20250128010538.png"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250128010538"
             }
           }
         ]
@@ -140,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_hackquest/Untitled.md"
+                "file": "attachments/Pasted image 20250128010538.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Pasted image 20250128010538"
             }
           },
           {
@@ -191,15 +188,23 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250202004548.png",
+    "attachments/Screenshot 2024-12-11 213435.png",
+    "attachments/Screenshot 2024-12-05 175338.png",
+    "attachments/Pasted image 20250128010538.png",
+    "attachments/Pasted image 20250202003742.png",
+    "Web Exploitation/Untitled.md",
     "AIML/local ai question.md",
+    "attachments/nessuslogo.png",
     "_hackquest/Untitled.md",
+    "_hackquest/resources.md",
+    "_hackquest/res 2.md",
+    "_hackquest/preparation.md",
+    "Ctf Notes/Collections of CTF write-ups.md",
+    "Web Exploitation/SQL Injection Basics.md",
     "AIML/AI DOC SUM TOOL.md",
     "Cryptography/cipher types.md",
     "AIML",
-    "attachments/Pasted image 20250128010538.png",
-    "_hackquest/res 2.md",
-    "_hackquest/preparation.md",
-    "_hackquest/resources.md",
     "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",
     "games data/wuwa/substat rolls.md",
@@ -214,8 +219,6 @@
     "posts/blog 1 first blog CI&CD pipeline.md",
     "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
     "attachments/wireshark-live-capture.png",
-    "attachments/Screenshot 2024-12-11 213435.png",
-    "attachments/Screenshot 2024-12-05 175338.png",
     "attachments/meltreact.png",
     "attachments/all elem react.png",
     "aptitude/Untitled.md",
@@ -225,18 +228,11 @@
     "posts/blog 6 hacking Environment setup.md",
     "posts/blog 5 cyber Atk Cmds.md",
     "posts/blog 4 really useful tools.md",
-    "posts/blog 3 cybersecurity.md",
-    "posts/blog 2 genshin elemental reaction guide.md",
-    "posts/blog 15 Bash Commands cheat sheet.md",
-    "posts/blog 14 windows commands cheat sheet.md",
     "posts",
     "Bug Bounty",
     "aptitude",
     "attachments/Win11_24H2_EnglishInternational_x64.iso",
     "attachments/Unconfirmed 114930.crdownload",
-    "attachments/openvaslogo.png",
-    "attachments/nessuslogo.png",
-    "Google CS professional Certification/files/tcpdump.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

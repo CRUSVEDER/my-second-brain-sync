@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/local ai question.md",
+                "file": "_hackquest/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local ai question"
+              "title": "Untitled"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML/local ai question.md"
+                "file": "_hackquest/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of local ai question"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -191,8 +191,9 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "AIML/AI DOC SUM TOOL.md",
     "AIML/local ai question.md",
+    "_hackquest/Untitled.md",
+    "AIML/AI DOC SUM TOOL.md",
     "Cryptography/cipher types.md",
     "AIML",
     "attachments/Pasted image 20250128010538.png",
@@ -228,7 +229,6 @@
     "posts/blog 2 genshin elemental reaction guide.md",
     "posts/blog 15 Bash Commands cheat sheet.md",
     "posts/blog 14 windows commands cheat sheet.md",
-    "posts/blog 13 Git Workflow and Commands Explained.md",
     "posts",
     "Bug Bounty",
     "aptitude",

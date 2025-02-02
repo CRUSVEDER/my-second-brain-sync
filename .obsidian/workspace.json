@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Exploitation/How to Find and Exploit SQL Vulnerabilities.md",
+                "file": "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Exploitation/How to Find and Exploit SQL Vulnerabilities.md"
+                "file": "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md"
               },
               "icon": "lucide-list",
               "title": "Outline of How to Find and Exploit SQL Vulnerabilities"
@@ -189,12 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c602ac5fbbf16e8",
+  "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
-    "Web Exploitation/Types of SQL Injection.md",
-    "Web Exploitation/How to Find and Exploit SQL Vulnerabilities.md",
+    "Web Exploitation/SQL Injection",
+    "Web Exploitation/SQL Injection/Types of SQL Injection.md",
+    "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
     "attachments/Pasted image 20250202005406.png",
-    "Web Exploitation/SQL Injection Basics.md",
+    "Web Exploitation/SQL Injection/SQL Injection Basics.md",
     "attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
     "attachments/nessuslogo.png",
     "attachments/meltreact.png",
@@ -231,7 +232,6 @@
     "posts/blog 7 Kali, Linux commands.md",
     "posts/blog 6 hacking Environment setup.md",
     "posts/blog 5 cyber Atk Cmds.md",
-    "posts/blog 4 really useful tools.md",
     "posts",
     "Bug Bounty",
     "aptitude",

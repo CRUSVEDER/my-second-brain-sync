@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Got it! Here’s a **complete, step-by-step guide** to building your **web-based PDF summarization tool**, including fine-tuning a Hugging Face model, integrating it into Flask, and deploying it.
 
 ---

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/project lists.md",
+                "file": "AIML/local ai question.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project lists"
+              "title": "local ai question"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/project lists.md"
+                "file": "AIML/local ai question.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of project lists"
+              "title": "Outline of local ai question"
             }
           },
           {
@@ -189,25 +189,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecdeb42ae17d66d9",
+  "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "projects/Developing a vulnerability scanner.md",
-    "posts/blog 6 hacking Environment setup.md",
-    "posts/blog 5 cyber Atk Cmds.md",
-    "posts/blog 4 really useful tools.md",
-    "posts/blog 3 cybersecurity.md",
-    "posts/blog 2 genshin elemental reaction guide.md",
-    "posts/blog 1 first blog CI&CD pipeline.md",
-    "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
-    "Tools/Untitled.md",
-    "_attachments/Pasted image 20250205135705.png",
     "AIML/AI DOC SUM TOOL.md",
-    "Tools",
-    "AIML/local ai question.md",
-    "Web Exploitation/SQL Injection",
-    "Web Exploitation/SQL Injection/Types of SQL Injection.md",
-    "_attachments/Pasted image 20250202005406.png",
+    "aptitude/Untitled.md",
+    "Binary Exploitations/Untitled.md",
+    "Bug Bounty/Untitled.md",
+    "Cryptography/cipher types.md",
+    "Ctf Notes/ctf basics.md",
+    "Ctf Notes/Collections of CTF write-ups.md",
+    "Forensics/Untitled.md",
+    "games data/wuwa/substat rolls.md",
+    "General Skills/Linux Commands.md",
+    "Git Notes/Git Notes Explained.md",
+    "Google CS professional Certification/1 Foundations of Cybersecurity/1 Welcome to the exciting world of cybersecurity.md",
+    "Malware/important libraries.md",
+    "Network Security/linux-networking-essentials.md",
+    "Network Security/network security basics.md",
+    "projects/Developing a vulnerability scanner.md",
+    "projects/project lists.md",
+    "Reconnaissance/Untitled.md",
+    "reports/OpenVAS.md",
+    "reports/Nessus.md",
+    "Reverse Engineering/Untitled.md",
+    "Tools/Untitled.md",
+    "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
     "Web Exploitation/SQL Injection/SQL Injection Basics.md",
+    "Web Exploitation/SQL Injection/Types of SQL Injection.md",
+    "posts/blog 6 hacking Environment setup.md",
+    "_attachments/Pasted image 20250205135705.png",
+    "Tools",
+    "Web Exploitation/SQL Injection",
+    "_attachments/Pasted image 20250202005406.png",
     "_attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
     "_attachments/nessuslogo.png",
     "_attachments/meltreact.png",
@@ -216,24 +229,11 @@
     "_attachments/Pasted image 20250202004548.png",
     "_attachments/Screenshot 2024-12-11 213435.png",
     "_attachments/Screenshot 2024-12-05 175338.png",
-    "_hackquest/Untitled.md",
-    "_hackquest/resources.md",
-    "_hackquest/res 2.md",
-    "_hackquest/preparation.md",
-    "Ctf Notes/Collections of CTF write-ups.md",
-    "Cryptography/cipher types.md",
     "AIML",
-    "projects/project lists.md",
-    "games data/wuwa/substat rolls.md",
     "_hackquest",
     "games data",
-    "README.md",
     "projects",
-    "Google CS professional Certification/1 Foundations of Cybersecurity/1 Welcome to the exciting world of cybersecurity.md",
-    "General Skills/Linux Commands.md",
     "games data/wuwa",
-    "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
-    "aptitude/Untitled.md",
     "posts",
     "Bug Bounty",
     "aptitude",

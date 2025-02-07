@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 
 | Attack | Defense | Life | Attack Percentage | Health Percentage | Defense Percentage | Resonance Efficiency (er) |
 | ------ | ------- | ---- | ----------------- | ----------------- | ------------------ | ------------------------- |
@@ -22,8 +26,6 @@
 | 6.3%      | 12.6%       | 6.4%                      | 6.4%                   | 6.4%                          | 6.4%                              |
 
 ---
-
-
 
 | type      | std | bp  |
 | --------- | --- | --- |

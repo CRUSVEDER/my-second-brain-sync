@@ -1,5 +1,5 @@
-Here’s a list of **GitHub repositories** for all the resources and tools mentioned in the preparation path:
-
+---
+dg-publish: true
 ---
 
 ### **Beginner Level Resources**

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/local ai question.md",
+                "file": "_hackquest/preparation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local ai question"
+              "title": "preparation"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML/local ai question.md"
+                "file": "_hackquest/preparation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of local ai question"
+              "title": "Outline of preparation"
             }
           },
           {
@@ -189,9 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c602ac5fbbf16e8",
+  "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
+    "_hackquest/Untitled.md",
+    "_hackquest/resources.md",
+    "_hackquest/res 2.md",
+    "_hackquest/preparation.md",
     "AIML/AI DOC SUM TOOL.md",
+    "AIML/local ai question.md",
     "aptitude/Untitled.md",
     "Binary Exploitations/Untitled.md",
     "Bug Bounty/Untitled.md",
@@ -212,11 +217,6 @@
     "reports/OpenVAS.md",
     "reports/Nessus.md",
     "Reverse Engineering/Untitled.md",
-    "Tools/Untitled.md",
-    "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
-    "Web Exploitation/SQL Injection/SQL Injection Basics.md",
-    "Web Exploitation/SQL Injection/Types of SQL Injection.md",
-    "posts/blog 6 hacking Environment setup.md",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",
     "Web Exploitation/SQL Injection",

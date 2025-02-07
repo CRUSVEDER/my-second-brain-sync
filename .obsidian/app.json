@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "_attachments",
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,

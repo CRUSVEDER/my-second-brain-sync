@@ -11,7 +11,7 @@ tags:
 
 Nessus is a widely used vulnerability assessment tool developed by Tenable, Inc. It is designed to help organizations identify and mitigate security vulnerabilities in their systems, networks, and applications. With its comprehensive scanning capabilities, Nessus is a key component in maintaining robust cybersecurity practices.
 
-![](../attachments/nessuslogo.png)
+![](../_attachments/nessuslogo.png)
 
 ---
 

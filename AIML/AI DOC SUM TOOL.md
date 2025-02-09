@@ -123,7 +123,7 @@ To load it later:
 
 ```python
 from transformers import pipeline
-summarizer = pipeline("summarization", model="my_summarizer")
+summarizer = pipeline("summarization", model="./my_summarizer")
 ```
 
 ---

@@ -179,6 +179,8 @@ This project successfully integrates **personal fine-tuned models** and **DeepSe
 
 🚀 **Next Steps:** Deploy the system and test its performance on real-world data!
 
+////////////////////////////////////////////////////////////////////////////////////////
+
 ---
 ### **🚀 Algorithms Used in This Project**
 
@@ -259,5 +261,151 @@ This combination ensures **accurate document summarization** and **intelligent Q
 
 Would you like a **mathematical breakdown of these algorithms** as well? Let me know! 🔥
 
+////////////////////////////////////////////////////////////////////////////////////////
 
 ---
+### **🚀 Training Process for Your `data.csv` (Summarization Model Fine-Tuning)**
+
+Your **custom dataset (`data.csv`)** is used to **fine-tune a pre-trained summarization model** (like BART or T5). The fine-tuning process **teaches the model** to generate summaries specific to your data.
+
+---
+
+## **📌 1. Algorithm Used for Training (`data.csv`)**
+
+Your training process follows a **Supervised Learning** approach with a **Sequence-to-Sequence (Seq2Seq) Transformer Model** (like BART or T5).
+
+### **🔹 Training Steps**
+
+1️⃣ **Load and Preprocess Dataset** (CSV with `text` and `summary`)  
+2️⃣ **Tokenize the Data** (Convert words into numbers)  
+3️⃣ **Fine-Tune Transformer Model** (BART/T5)  
+4️⃣ **Optimization & Loss Function** (AdamW, Cross-Entropy)  
+5️⃣ **Evaluation & Saving the Model**
+
+---
+
+## **📌 2. How `data.csv` is Processed?**
+
+Your dataset is structured like this:
+
+```csv
+text,summary
+"Long document content here","Short summary here"
+"Another long document","Its summary"
+```
+
+Each row contains:
+
+- **`text`** → Long document content
+- **`summary`** → Its human-written summary
+
+### **🔹 Tokenization Process**
+
+Before training, the data is **converted into tokenized format** (numerical representation).
+
+```python
+from transformers import AutoTokenizer
+
+tokenizer = AutoTokenizer.from_pretrained("facebook/bart-large-cnn")
+
+def preprocess_data(batch):
+    inputs = tokenizer(batch["text"], max_length=1024, truncation=True, padding="max_length")
+    labels = tokenizer(batch["summary"], max_length=150, truncation=True, padding="max_length")
+    return {"input_ids": inputs["input_ids"], "labels": labels["input_ids"]}
+```
+
+---
+
+## **📌 3. Training Model Using Your Dataset**
+
+The **pre-trained model** (BART/T5) is fine-tuned using your `data.csv`.
+
+### **🔹 Training Loop**
+
+```python
+from transformers import AutoModelForSeq2SeqLM, TrainingArguments, Trainer
+from datasets import load_dataset
+
+# Load dataset
+dataset = load_dataset("csv", data_files="data.csv")
+
+# Apply tokenization
+dataset = dataset.map(preprocess_data, batched=True)
+
+# Load pre-trained summarization model
+model = AutoModelForSeq2SeqLM.from_pretrained("facebook/bart-large-cnn")
+
+# Training configuration
+training_args = TrainingArguments(
+    output_dir="./results",
+    per_device_train_batch_size=2,
+    per_device_eval_batch_size=2,
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    logging_dir="./logs",
+    num_train_epochs=3,
+    weight_decay=0.01,  # Prevents overfitting
+)
+
+# Define trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=dataset["train"]
+)
+
+# Train the model
+trainer.train()
+```
+
+---
+
+## **📌 4. Algorithms Used in Training**
+
+|**Step**|**Algorithm Used**|
+|---|---|
+|**Tokenization**|**Byte-Pair Encoding (BPE)**|
+|**Training Approach**|**Supervised Learning (Seq2Seq)**|
+|**Optimization**|**AdamW Optimizer** (Adaptive Learning Rate)|
+|**Loss Function**|**Cross-Entropy Loss**|
+|**Evaluation Strategy**|**Per Epoch Evaluation**|
+
+
+![](../_attachments/Pasted%20image%2020250210184312.png)
+
+---
+
+## **📌 5. Saving and Loading Your Trained Model**
+
+Once the model is trained, **save it for future use**:
+
+```python
+model.save_pretrained("my_summarizer")
+tokenizer.save_pretrained("my_summarizer")
+```
+
+To **load and use it** for inference:
+
+```python
+from transformers import pipeline
+
+summarizer = pipeline("summarization", model="my_summarizer")
+
+summary = summarizer("Your long document text here", max_length=150, min_length=50, do_sample=False)
+print(summary[0]["summary_text"])
+```
+
+---
+
+## **📌 6. Summary of Fine-Tuning**
+
+✅ **Custom Dataset (`data.csv`)** is used for training.  
+✅ **BART/T5 learns to generate summaries from examples.**  
+✅ **Optimization is done using AdamW and Cross-Entropy Loss.**  
+✅ **The trained model is saved as `my_summarizer`.**
+
+Would you like a **graphical representation of the training process**? Let me know! 🚀
+/////////////////////////////////////////////////////////////////////////////////////////
+
+----
+

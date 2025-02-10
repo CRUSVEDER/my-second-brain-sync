@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/my current ai pdf sum too.md",
+                "file": "AIML/ieee pdf sum tool format.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my current ai pdf sum too"
+              "title": "ieee pdf sum tool format"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML/my current ai pdf sum too.md"
+                "file": "AIML/ieee pdf sum tool format.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of my current ai pdf sum too"
+              "title": "Outline of ieee pdf sum tool format"
             }
           },
           {
@@ -191,8 +191,10 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "AIML/AI DOC SUM TOOL.md",
     "AIML/my current ai pdf sum too.md",
+    "AIML/ieee pdf sum tool format.md",
+    "_attachments/Pasted image 20250210184312.png",
+    "AIML/AI DOC SUM TOOL.md",
     "_hackquest/preparation.md",
     "_hackquest/Untitled.md",
     "_hackquest/resources.md",
@@ -216,7 +218,6 @@
     "projects/project lists.md",
     "Reconnaissance/Untitled.md",
     "reports/OpenVAS.md",
-    "reports/Nessus.md",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",
     "Web Exploitation/SQL Injection",
@@ -228,7 +229,6 @@
     "_attachments/Pasted image 20250128010538.png",
     "_attachments/Pasted image 20250202004548.png",
     "_attachments/Screenshot 2024-12-11 213435.png",
-    "_attachments/Screenshot 2024-12-05 175338.png",
     "AIML",
     "_hackquest",
     "games data",

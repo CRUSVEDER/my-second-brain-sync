@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/ieee pdf sum tool format.md",
+                "file": "AIML/AI DOC SUM TOOL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ieee pdf sum tool format"
+              "title": "AI DOC SUM TOOL"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML/ieee pdf sum tool format.md"
+                "file": "AIML/AI DOC SUM TOOL.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ieee pdf sum tool format"
+              "title": "Outline of AI DOC SUM TOOL"
             }
           },
           {
@@ -191,15 +191,15 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
-    "AIML/my current ai pdf sum too.md",
     "AIML/ieee pdf sum tool format.md",
-    "_attachments/Pasted image 20250210184312.png",
+    "AIML/local ai question.md",
+    "AIML/my current ai pdf sum too.md",
     "AIML/AI DOC SUM TOOL.md",
+    "_attachments/Pasted image 20250210184312.png",
     "_hackquest/preparation.md",
     "_hackquest/Untitled.md",
     "_hackquest/resources.md",
     "_hackquest/res 2.md",
-    "AIML/local ai question.md",
     "aptitude/Untitled.md",
     "Binary Exploitations/Untitled.md",
     "Bug Bounty/Untitled.md",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/my current ai pdf sum tool.md",
+                "file": "Malware/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my current ai pdf sum tool"
+              "title": "Untitled"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML/my current ai pdf sum tool.md"
+                "file": "Malware/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of my current ai pdf sum tool"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -189,13 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecdeb42ae17d66d9",
+  "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "Malware/important libraries.md",
+    "Malware/Untitled.md",
+    "AIML/my current ai pdf sum tool.md",
     "AIML/AI DOC SUM TOOL.md",
     "reports/Nessus.md",
     "AIML/ieee pdf sum tool format.md",
     "AIML/local ai question.md",
-    "AIML/my current ai pdf sum tool.md",
     "_attachments/Pasted image 20250210184312.png",
     "_hackquest/preparation.md",
     "_hackquest/Untitled.md",
@@ -212,12 +214,10 @@
     "General Skills/Linux Commands.md",
     "Git Notes/Git Notes Explained.md",
     "Google CS professional Certification/1 Foundations of Cybersecurity/1 Welcome to the exciting world of cybersecurity.md",
-    "Malware/important libraries.md",
     "Network Security/linux-networking-essentials.md",
     "Network Security/network security basics.md",
     "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",
-    "Reconnaissance/Untitled.md",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",
     "Web Exploitation/SQL Injection",

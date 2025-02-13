@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/Nessus.md",
+                "file": "AIML/my current ai pdf sum tool.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nessus"
+              "title": "my current ai pdf sum tool"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/Nessus.md"
+                "file": "AIML/my current ai pdf sum tool.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nessus"
+              "title": "Outline of my current ai pdf sum tool"
             }
           },
           {
@@ -189,12 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c602ac5fbbf16e8",
+  "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
     "AIML/AI DOC SUM TOOL.md",
+    "reports/Nessus.md",
     "AIML/ieee pdf sum tool format.md",
     "AIML/local ai question.md",
-    "AIML/my current ai pdf sum too.md",
+    "AIML/my current ai pdf sum tool.md",
     "_attachments/Pasted image 20250210184312.png",
     "_hackquest/preparation.md",
     "_hackquest/Untitled.md",
@@ -217,7 +218,6 @@
     "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",
     "Reconnaissance/Untitled.md",
-    "reports/OpenVAS.md",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",
     "Web Exploitation/SQL Injection",

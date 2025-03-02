@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study notes CSE/NFT/Q1 U1.md",
+                "file": "study notes CSE/NFT/NFT metadata format.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q1 U1"
+              "title": "NFT metadata format"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study notes CSE/NFT/Q1 U1.md"
+                "file": "study notes CSE/NFT/NFT metadata format.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Q1 U1"
+              "title": "Outline of NFT metadata format"
             }
           },
           {
@@ -192,6 +192,7 @@
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
     "study notes CSE/NFT/1 to 3 chap notes.md",
+    "study notes CSE/NFT/NFT metadata format.md",
     "study notes CSE/NFT/Q1 U1.md",
     "study notes CSE/CSLLA/chap 1.md",
     "study notes CSE/CSLLA/chap 2.md",
@@ -220,7 +221,6 @@
     "games data/wuwa/substat rolls.md",
     "General Skills/Linux Commands.md",
     "Git Notes/Git Notes Explained.md",
-    "projects/Developing a vulnerability scanner.md",
     "_attachments/Pasted image 20250210184312.png",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",

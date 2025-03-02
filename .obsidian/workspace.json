@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study notes CSE/NFT/1 to 3 chap notes.md",
+                "file": "study notes CSE/NFT/Q1 U1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 to 3 chap notes"
+              "title": "Q1 U1"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study notes CSE/NFT/1 to 3 chap notes.md"
+                "file": "study notes CSE/NFT/Q1 U1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 to 3 chap notes"
+              "title": "Outline of Q1 U1"
             }
           },
           {
@@ -191,6 +191,8 @@
   },
   "active": "4c602ac5fbbf16e8",
   "lastOpenFiles": [
+    "study notes CSE/NFT/1 to 3 chap notes.md",
+    "study notes CSE/NFT/Q1 U1.md",
     "study notes CSE/CSLLA/chap 1.md",
     "study notes CSE/CSLLA/chap 2.md",
     "study notes CSE/CSLLA/chap 3.md",
@@ -200,7 +202,6 @@
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
     "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
     "Google CS professional Certification/3 Connect and Protect - Networks and Network Security/2 Network operations.md",
-    "study notes CSE/NFT/1 to 3 chap notes.md",
     "study notes CSE/IF/Untitled.md",
     "study notes CSE/CSLLA",
     "study notes CSE/IF",
@@ -220,7 +221,6 @@
     "General Skills/Linux Commands.md",
     "Git Notes/Git Notes Explained.md",
     "projects/Developing a vulnerability scanner.md",
-    "projects/project lists.md",
     "_attachments/Pasted image 20250210184312.png",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",

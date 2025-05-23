@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f395cc1aa54b4ec",
+        "id": "0a1d026e430374b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4c602ac5fbbf16e8",
+            "id": "d70ccc9139cf193a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_hackquest/res 2.md",
-                "mode": "source",
+                "file": "projects/project lists.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res 2"
+              "title": "project lists"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_hackquest/res 2.md"
+                "file": "projects/project lists.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of res 2"
+              "title": "Outline of project lists"
             }
           },
           {
@@ -189,10 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c602ac5fbbf16e8",
+  "active": "d70ccc9139cf193a",
   "lastOpenFiles": [
-    "_hackquest/preparation.md",
+    "Network Security/network security basics.md",
+    "Network Security/linux-networking-essentials.md",
     "projects/Developing a vulnerability scanner.md",
+    "_hackquest/res 2.md",
+    "_hackquest/preparation.md",
     "projects/project lists.md",
     "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/4 Python in practice.md",
     "study notes CS/NFT/Q1 U1.md",
@@ -218,9 +221,6 @@
     "AIML/my current ai pdf sum tool.md",
     "AIML/ieee pdf sum tool format.md",
     "AIML/AI DOC SUM TOOL.md",
-    "Bug Bounty/Untitled.md",
-    "Cryptography/cipher types.md",
-    "Ctf Notes/ctf basics.md",
     "_attachments/Pasted image 20250210184312.png",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",

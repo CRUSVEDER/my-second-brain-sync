@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/NMAP.md",
+                "file": "Tools/Metasploit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMAP"
+              "title": "Metasploit"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/NMAP.md"
+                "file": "Tools/Metasploit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NMAP"
+              "title": "Outline of Metasploit"
             }
           },
           {
@@ -189,11 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecdeb42ae17d66d9",
+  "active": "d70ccc9139cf193a",
   "lastOpenFiles": [
+    "Tools/NMAP.md",
+    "Tools/Metasploit.md",
     "Network Security/network security basics.md",
     "projects/project lists.md",
-    "Tools/NMAP.md",
     "Tools/Untitled.md",
     "Network Security/linux-networking-essentials.md",
     "projects/Developing a vulnerability scanner.md",
@@ -220,7 +221,6 @@
     "study notes CSE/Untitled.md",
     "study notes CS/NFT",
     "study notes CS",
-    "AIML/my current ai pdf sum tool.md",
     "_attachments/Pasted image 20250210184312.png",
     "_attachments/Pasted image 20250205135705.png",
     "Tools",

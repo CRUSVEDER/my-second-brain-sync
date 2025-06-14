@@ -410,13 +410,3 @@ sudo yum install nmap                     # CentOS/RHEL
 
 ---
 
-Would you like me to:
-
-- ✅ Create a **PDF guide** of this?
-    
-- ✅ Make a **printable cheat sheet version**?
-    
-- ✅ Show a **real scan result demo**?
-    
-
-Let me know!

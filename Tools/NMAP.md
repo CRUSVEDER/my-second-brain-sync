@@ -397,16 +397,16 @@ sudo yum install nmap                     # CentOS/RHEL
 
 ## 📑 Summary Cheatsheet
 
-|Purpose|Command Example|
-|---|---|
-|Ping Scan|`nmap -sn 192.168.1.0/24`|
-|TCP SYN Scan|`nmap -sS 192.168.1.10`|
-|OS Detection|`nmap -O 192.168.1.10`|
-|Version Detection|`nmap -sV 192.168.1.10`|
-|Aggressive Scan|`nmap -A 192.168.1.10`|
-|Run Scripts|`nmap --script vuln 192.168.1.10`|
-|Save Output|`nmap -oA result 192.168.1.10`|
-|Scan All Ports|`nmap -p- 192.168.1.10`|
+| Purpose           | Command Example                   |
+| ----------------- | --------------------------------- |
+| Ping Scan         | `nmap -sn 192.168.1.0/24`         |
+| TCP SYN Scan      | `nmap -sS 192.168.1.10`           |
+| OS Detection      | `nmap -O 192.168.1.10`            |
+| Version Detection | `nmap -sV 192.168.1.10`           |
+| Aggressive Scan   | `nmap -A 192.168.1.10`            |
+| Run Scripts       | `nmap --script vuln 192.168.1.10` |
+| Save Output       | `nmap -oA result 192.168.1.10`    |
+| Scan All Ports    | `nmap -p- 192.168.1.10`           |
 
 ---
 

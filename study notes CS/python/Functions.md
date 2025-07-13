@@ -236,41 +236,6 @@ retry(flaky_function)
 ```
 
 **Use Case**: Networking, web scraping, or microservices where some failures are expected.
-
----
-## 🧭 Function Flow Diagrams (Visual Logic)
-
-
-
-### Recursive Function Flow (factorial)
-
-```
-Calling factorial(3)
-   |
-   |---> factorial(3)
-           |---> 3 * factorial(2)
-                       |---> 2 * factorial(1)
-                                   |---> 1 * factorial(0)
-                                               |---> return 1 (base case)
-                                   |<--- return 1 * 1 = 1
-                       |<--- return 2 * 1 = 2
-           |<--- return 3 * 2 = 6
-```
-
-### Real Life Example Flow (Email Validator)
-
-```
-Main Program
-   |
-   |---> is_valid_email("user@example.com")
-                |
-                |---> Checks pattern using regex
-                |---> Matches, returns True
-   |---> Output: True (valid email)
-```
-
-### Retry Logic Flow
-
 ```
 Main Program
    |
@@ -283,7 +248,4 @@ Main Program
                 |---> Attempt 3: fails → print error
                 |---> Ends, returns None
 ```
-
 ---
-
-(remaining content unchanged)

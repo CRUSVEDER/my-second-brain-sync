@@ -167,7 +167,15 @@ print(is_valid_email("user@example.com"))  # True
 ```
 
 **Use Case**: Web development, form validation. Ensures a user enters a proper email format.
-
+```
+Main Program
+   |
+   |---> is_valid_email("user@example.com")
+                |
+                |---> Checks pattern using regex
+                |---> Matches, returns True
+   |---> Output: True (valid email)
+```
 #### 2. Logging Function
 
 ```python

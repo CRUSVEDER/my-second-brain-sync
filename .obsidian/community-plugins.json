@@ -1,4 +1,5 @@
 [
-  "obsidian-git",
-  "multi-properties"
+  "multi-properties",
+  "mdx-as-md-obsidian",
+  "obsidian-git"
 ]

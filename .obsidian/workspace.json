@@ -4,52 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1d026e430374b8",
+        "id": "0fa32c902fed0124",
         "type": "tabs",
         "children": [
           {
-            "id": "59427485b28d5933",
+            "id": "2e92699fd1b9165b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/NMAP.md",
+                "file": "study notes CS/python/Functions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMAP"
+              "title": "Functions"
             }
           },
           {
-            "id": "64231dde5d64f847",
+            "id": "fbf769197787ad94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tools/NMAP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "_attachments/Pasted image 20250628170412.png"
               },
-              "icon": "lucide-file",
-              "title": "NMAP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628170412"
             }
           },
           {
-            "id": "d70ccc9139cf193a",
+            "id": "c7f26b2cb21ee02f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tools/Metasploit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "_attachments/Pasted image 20250628163453.png"
               },
-              "icon": "lucide-file",
-              "title": "Metasploit"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628163453"
+            }
+          },
+          {
+            "id": "04ae6fe1d6318caa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/Pasted image 20250628170348.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628170348"
+            }
+          },
+          {
+            "id": "e4a1d632db6b4d47",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/Pasted image 20250628163152.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628163152"
+            }
+          },
+          {
+            "id": "af7251f56609bb14",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/Pasted image 20250628162405.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628162405"
             }
           }
         ]
@@ -124,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_hackquest/res 2.md",
+                "file": "study notes CS/python/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +164,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for res 2"
+              "title": "Backlinks for Functions"
             }
           },
           {
@@ -143,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_hackquest/res 2.md",
+                "file": "study notes CS/python/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from res 2"
+              "title": "Outgoing links from Functions"
             }
           },
           {
@@ -170,20 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/NMAP.md"
+                "file": "study notes CS/python/Functions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NMAP"
-            }
-          },
-          {
-            "id": "abd107e59c2a7767",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Functions"
             }
           },
           {
@@ -199,13 +219,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "5b89533d5e7566a5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,53 +249,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59427485b28d5933",
+  "active": "2e92699fd1b9165b",
   "lastOpenFiles": [
-    "Ctf Notes/medium (tombwatcher).md",
-    "_attachments/Pasted image 20250619215227.png",
-    "_attachments/Pasted image 20250619215214.png",
-    "_attachments/Pasted image 20250619215158.png",
-    "_attachments/Pasted image 20250619215120.png",
-    "_attachments/Pasted image 20250619215037.png",
+    "study notes CS/python/Python Cheat Sheet.md",
+    "study notes CS/python/Functions.md",
+    "study notes CS/python",
+    "study notes CS/NFT/Q1 U1.md",
+    "study notes CS/NFT/NFT metadata format.md",
+    "study notes CS/NFT/1 chap notes.md",
+    "study notes CS/CSLLA/chap 1.md",
+    "study notes CS/IF/Untitled.md",
+    "Ctf Notes/cyber arena.md",
+    "_attachments/Pasted image 20250704185927.png",
+    "_attachments/Pasted image 20250704185800.png",
+    "_attachments/Pasted image 20250704185719.png",
+    "General Skills/Linux Commands.md",
+    "Forensics/Untitled.md",
+    "aptitude/indeax.mdx",
+    "aptitude/indeax.mdx.md",
+    "aptitude/Untitled.md",
+    "README.md",
+    "aptitude/Untitled.mdx",
+    "Ctf Notes/ctf basics.md",
+    "Ctf Notes/B side Mumbai CTF event 28.06.md",
+    "_attachments/Pasted image 20250629112800.png",
+    "_attachments/Pasted image 20250628225747.png",
+    "_attachments/Pasted image 20250628174404.png",
+    "_attachments/Pasted image 20250628171230.png",
+    "_attachments/Pasted image 20250628170412.png",
+    "_attachments/Pasted image 20250628163453.png",
+    "_attachments/Pasted image 20250628170348.png",
     "Tools/NMAP.md",
+    "Ctf Notes/medium (tombwatcher).md",
     "Tools/Metasploit.md",
     "Tools/Untitled.md",
     "Ctf Notes/Collections of CTF write-ups.md",
-    "Ctf Notes/ctf basics.md",
     "Network Security/network security basics.md",
     "projects/project lists.md",
     "Network Security/linux-networking-essentials.md",
     "projects/Developing a vulnerability scanner.md",
     "_hackquest/res 2.md",
     "_hackquest/preparation.md",
-    "Google CS professional Certification/7 Automate Cybersecurity Tasks with Python/4 Python in practice.md",
-    "study notes CS/NFT/Q1 U1.md",
-    "study notes CS/NFT/2 chap notes.md",
-    "study notes CS/NFT/1 chap notes.md",
-    "study notes CS/NFT/C2 U1.md",
-    "study notes CS/NFT/NFT metadata format.md",
-    "study notes CS/CSLLA/chap 1.md",
-    "study notes CS/CSLLA/chap 2.md",
-    "study notes CS/CSLLA/chap 3.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
-    "Google CS professional Certification/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
     "study notes CS/CSLLA",
     "study notes CS/IF",
     "study notes CS/NFT",
     "study notes CS",
-    "_attachments/Pasted image 20250210184312.png",
-    "_attachments/Pasted image 20250205135705.png",
     "Tools",
     "Web Exploitation/SQL Injection",
-    "_attachments/Pasted image 20250202005406.png",
-    "_attachments/1_eju_tKQSYYL5MDk0BtWBLg.png",
-    "_attachments/nessuslogo.png",
     "AIML",
-    "_hackquest",
-    "games data",
-    "projects",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

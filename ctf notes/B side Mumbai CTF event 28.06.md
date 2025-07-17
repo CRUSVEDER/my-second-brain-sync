@@ -49,11 +49,6 @@ The goal is to decrypt the ciphertext to recover the flag, which follows the for
 
 ### Step 1: Understand RSA
 
-RSA encryption is based on the difficulty of factoring a large modulus ( N = p \cdot q ), where ( p ) and ( q ) are large prime numbers. The public key is ( (N, e) ), and the private key ( d ) satisfies ( d \cdot e \equiv 1 \mod \phi(N) ), where ( \phi(N) = (p-1)(q-1) ) is Euler’s totient function. To decrypt, we compute:
-
-[ m = c^d \mod N ]
-
-Since only ( c ), ( N ), and ( e ) are provided, we need to factor ( N ) to find ( p ) and ( q ), compute ( \phi(N) ), derive ( d ), and decrypt ( c ).
 
 ### Step 2: Factor the Modulus
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md",
+                "file": "Ctf Notes/ctf basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B side Mumbai CTF event 28.06"
+              "title": "ctf basics"
             }
           },
           {
@@ -200,10 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md"
+                "file": "Ctf Notes/ctf basics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of B side Mumbai CTF event 28.06"
+              "title": "Outline of ctf basics"
             }
           },
           {
@@ -241,6 +241,7 @@
   },
   "active": "2e92699fd1b9165b",
   "lastOpenFiles": [
+    "Ctf Notes/B side Mumbai CTF event 28.06.md",
     "study notes CS/python/refrence.md",
     "study notes CS/python/Functions.md",
     "study notes CS/python/Python Cheat Sheet.md",
@@ -262,7 +263,6 @@
     "README.md",
     "aptitude/Untitled.mdx",
     "Ctf Notes/ctf basics.md",
-    "Ctf Notes/B side Mumbai CTF event 28.06.md",
     "_attachments/Pasted image 20250629112800.png",
     "_attachments/Pasted image 20250628225747.png",
     "_attachments/Pasted image 20250628174404.png",

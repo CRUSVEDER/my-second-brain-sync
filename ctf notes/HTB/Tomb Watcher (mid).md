@@ -2,16 +2,26 @@
 dg-publish:
 ---
 ---
-![](../_attachments/Pasted%20image%2020250619215037.png)
+# Connect
+
+![](../../_attachments/Pasted%20image%2020250619215037.png)
 connected to kali via openvpn
 
-![](../_attachments/Pasted%20image%2020250619215120.png)
+![](../../_attachments/Pasted%20image%2020250619215120.png)
 
-![](../_attachments/Pasted%20image%2020250619215158.png)
-![](../_attachments/Pasted%20image%2020250619215214.png)
-![](../_attachments/Pasted%20image%2020250619215227.png)
+# verify
+
+![](../../_attachments/Pasted%20image%2020250619215158.png)
+
+
+# Scan
+
+![](../../_attachments/Pasted%20image%2020250619215214.png)
+![](../../_attachments/Pasted%20image%2020250619215227.png)
 
 this reveals:
+
+## outputs
 
 | Port     | Service          | Purpose                                                   |
 | -------- | ---------------- | --------------------------------------------------------- |

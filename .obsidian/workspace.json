@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md",
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B side Mumbai CTF event 28.06"
+              "title": "Tomb Watcher (mid)"
             }
           },
           {
@@ -200,10 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md"
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of B side Mumbai CTF event 28.06"
+              "title": "Outline of Tomb Watcher (mid)"
             }
           },
           {
@@ -241,8 +241,8 @@
   },
   "active": "2e92699fd1b9165b",
   "lastOpenFiles": [
-    "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "Ctf Notes/B side Mumbai CTF event 28.06.md",
+    "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "Ctf Notes/Collections of CTF write-ups.md",
     "Ctf Notes/ctf basics.md",
     "Ctf Notes/cyber arena.md",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fa32c902fed0124",
+        "id": "08722262759e22d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2e92699fd1b9165b",
+            "id": "79bf489fb568d274",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,66 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Tomb Watcher (mid)"
-            }
-          },
-          {
-            "id": "fbf769197787ad94",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/Pasted image 20250628170412.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250628170412"
-            }
-          },
-          {
-            "id": "c7f26b2cb21ee02f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/Pasted image 20250628163453.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250628163453"
-            }
-          },
-          {
-            "id": "04ae6fe1d6318caa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/Pasted image 20250628170348.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250628170348"
-            }
-          },
-          {
-            "id": "e4a1d632db6b4d47",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/Pasted image 20250628163152.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250628163152"
-            }
-          },
-          {
-            "id": "af7251f56609bb14",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/Pasted image 20250628162405.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250628162405"
             }
           }
         ]
@@ -239,10 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e92699fd1b9165b",
+  "active": "79bf489fb568d274",
   "lastOpenFiles": [
-    "Ctf Notes/B side Mumbai CTF event 28.06.md",
+    "_attachments/Pasted image 20250619215227.png",
+    "_attachments/Pasted image 20250628170412.png",
+    "_attachments/Pasted image 20250628163453.png",
+    "_attachments/Pasted image 20250628170348.png",
+    "_attachments/Pasted image 20250628163152.png",
+    "_attachments/Pasted image 20250628162405.png",
     "Ctf Notes/HTB/Tomb Watcher (mid).md",
+    "Ctf Notes/B side Mumbai CTF event 28.06.md",
     "Ctf Notes/Collections of CTF write-ups.md",
     "Ctf Notes/ctf basics.md",
     "Ctf Notes/cyber arena.md",
@@ -269,18 +215,12 @@
     "aptitude/Untitled.mdx",
     "_attachments/Pasted image 20250629112800.png",
     "_attachments/Pasted image 20250628225747.png",
-    "_attachments/Pasted image 20250628174404.png",
-    "_attachments/Pasted image 20250628171230.png",
-    "_attachments/Pasted image 20250628170412.png",
-    "_attachments/Pasted image 20250628163453.png",
-    "_attachments/Pasted image 20250628170348.png",
     "Tools/NMAP.md",
     "Tools/Metasploit.md",
     "Tools/Untitled.md",
     "Network Security/network security basics.md",
     "projects/project lists.md",
     "Network Security/linux-networking-essentials.md",
-    "projects/Developing a vulnerability scanner.md",
     "study notes CS/CSLLA",
     "study notes CS/IF",
     "study notes CS/NFT",

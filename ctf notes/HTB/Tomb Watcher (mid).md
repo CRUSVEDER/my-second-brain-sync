@@ -13,7 +13,7 @@ connected to kali via openvpn
 
 ![](../../_attachments/Pasted%20image%2020250619215158.png)
 
-
+---
 # Scan
 
 ![](../../_attachments/Pasted%20image%2020250619215214.png)

@@ -126,6 +126,7 @@ If the login is successful, CrackMapExec will display confirmation that the acco
 
 ### Output:
 
+```
 ┌──(root㉿kali)-[/home/kali/Downloads]
 └─# crackmapexec smb 10.10.11.72 -u henry -p 'H3nry_987TGV!' -d tombwatcher.htb
 /usr/lib/python3/dist-packages/cme/cli.py:35: SyntaxWarning: invalid escape sequence '\ '
@@ -152,4 +153,13 @@ If the login is successful, CrackMapExec will display confirmation that the acco
   command = self.__shell + 'echo '+ data + ' ^> \\\\127.0.0.1\\{}\\{} 2^>^&1 > %TEMP%\{} & %COMSPEC% /Q /c %TEMP%\{} & %COMSPEC% /Q /c del %TEMP%\{}'.format(self.__share_name, self.__output, self.__batchFile, self.__batchFile, self.__batchFile)
 SMB         10.10.11.72     445    DC01             [*] Windows 10 / Server 2019 Build 17763 x64 (name:DC01) (domain:tombwatcher.htb) (signing:True) (SMBv1:False)
 SMB         10.10.11.72     445    DC01             [+] tombwatcher.htb\henry:H3nry_987TGV! 
+```
+
+![](../../_attachments/Pasted%20image%2020250817154414.png)
+
+We tested the credentials `henry:H3nry_987TGV!` against the SMB service on `10.10.11.72` using CrackMapExec. The authentication was successful, confirming that the account is valid within the `tombwatcher.htb` domain. The host was identified as a Windows Server 2019 machine (Build 17763) with SMBv2/3 enabled and SMBv1 disabled.
+
+---
+
+## SMB Enumeration:
 

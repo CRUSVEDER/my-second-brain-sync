@@ -170,12 +170,26 @@ Using smbclient, we list available shares:
 smbclient -L //10.10.11.72 -U 'tombwatcher.htb\henry%H3nry_987TGV!'
 ```
 
+
+output:
 ```
- Sharename       Type      Comment
-        ---------       ----      -------
-        ADMIN$          Disk      Remote Admin
-        C$              Disk      Default share
-        IPC$            IPC       Remote IPC
-        NETLOGON        Disk      Logon server share 
-        SYSVOL          Disk      Logon server share 
+Sharename       Type      Comment
+---------       ----      -------
+ADMIN$          Disk      Remote Admin
+C$              Disk      Default share
+IPC$            IPC       Remote IPC
+NETLOGON        Disk      Logon server share 
+SYSVOL          Disk      Logon server share 
+
 ```
+
+
+![](../../_attachments/Pasted%20image%2020250817155429.png)
+
+The following shares were discovered:
+- **ADMIN$** – Remote administration share (default)
+- **C$** – Default administrative share for the C: drive
+- **IPC$** – Inter-process communication
+- **NETLOGON** – Contains logon scripts and related domain controller files
+- **SYSVOL** – Holds domain-wide policies and scripts, replicated across all DCs
+

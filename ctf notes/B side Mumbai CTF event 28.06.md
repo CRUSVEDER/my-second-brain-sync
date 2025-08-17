@@ -73,7 +73,7 @@ So:
 - `q = 1704709`
     
 
-Check: `p * q = N ✅`
+Check: `p * q = N 
 
 ---
 
@@ -131,11 +131,8 @@ Output:
 
 The bytes weren’t printable ASCII. But in CTFs, flags sometimes just use the raw decimal/hex values.
 
-Tried both:
+`BMCTF{17d8d6b6b2aa}`
 
-- `BMCTF{1635730432794}`
-    
-- `BMCTF{17d8d6b6b2aa}`
 ---
 # ctf: XORRY (50)
 
@@ -148,98 +145,34 @@ The binary didn’t have execute permissions initially, so I fixed that:
 
 ![](../_attachments/Pasted%20image%2020250628161341.png)
 
+Now I could run it:
+
+`./XORyy`
+
+Output:
+
+`Enter the secret key:`
+
+If I entered something random (`test, key, etc`), it just said:
+
+`Incorrect key. Try again.`
+
 
 ![](../_attachments/Pasted%20image%2020250628161439.png)
+## 🛠 Step 2: Static Analysis with `strings`
 
+Next move: check if the flag is simply embedded in the binary. Classic beginner trick.
+
+`strings XORyy | less`
+
+Found some interesting strings:
+
+`Enter the secret key: Incorrect key. Try again. Congratulations! You found the flag: BMCTF{X0R_Is_Fun} xor_crypt strcmp`
 
 ![](../_attachments/Pasted%20image%2020250628161705.png)
 
 flag found after reading list
 
- CTF Write-Up: XORyy Challenge
-
-## challenge Description
-
-The `XORyy` challenge provides a 64-bit ELF binary that prompts the user for a "secret key," processes it (likely with an XOR operation via the `xor_crypt` function), and outputs a flag if the correct key is provided. The goal is to extract the flag, which is revealed to be `BMCTF{X0R_Is_Fun}` through analysis.
-
-## Tools Used
-
-- **Kali Linux**: Environment for running commands.
-- **Terminal**: For executing `chmod`, `./XORyy`, and `strings`.
-- **Text Editor**: To review the output of `strings`.
-
-## Solution Steps
-
-### Step 1: Verify File Permissions
-
-- The challenge provided an ELF binary named `XORyy`. To ensure it’s executable, I ran:
-    
-    ```bash
-    chmod +x XORyy
-    ```
-    
-- This command grants execute permissions, allowing the binary to be run directly.
-
-### Step 2: Test Binary Behavior
-
-- To understand the binary’s behavior, I executed it:
-    
-    ```bash
-    ./XORyy
-    ```
-    
-- The program prompted: `Enter the secret key:`. I entered a random key (e.g., `test`) to observe the output.
-- The output was: `Incorrect key. Try again.`, indicating the binary expects a specific key that, when processed, unlocks the flag.
-
-### Step 3: Extract Strings from Binary
-
-- To find clues, I used the `strings` command to extract printable strings from the binary:
-    
-    ```bash
-    strings XORyy > strings.txt
-    ```
-    
-- I reviewed the `strings.txt` file using a text editor and found key strings:
-    - `Enter the secret key:`
-    - `Congratulations! You found the flag: BMCTF{X0R_Is_Fun}`
-    - `Incorrect key. Try again.`
-    - Function names: `xor_crypt`, `fgets`, `strlen`, `strcspn`, `strcmp`, `printf`.
-
-### Step 4: Analyze Strings Output
-
-- The string `Congratulations! You found the flag: BMCTF{X0R_Is_Fun}` directly revealed the flag: `BMCTF{X0R_Is_Fun}`.
-- The presence of `xor_crypt` suggested the binary applies an XOR operation to the input key and compares it (via `strcmp`) to an expected value, likely related to the flag.
-- Since the flag was explicitly listed in the strings, the challenge likely intended for participants to extract it directly from the binary’s strings, a common technique in beginner CTF reverse-engineering challenges.
-
-### Step 5: Verify the Flag
-
-- The flag format `BMCTF{...}` is standard for CTF challenges, and `BMCTF{X0R_Is_Fun}` matches the context of the `xor_crypt` function.
-- To confirm, I noted that the binary’s behavior (prompting for a key and checking it) suggests the flag is correct, but extracting it via `strings` was sufficient for this challenge.
-- If the challenge required the actual key, further reverse-engineering (e.g., using Ghidra or GDB to analyze `xor_crypt`) would be needed, but the flag’s presence in `strings` indicates this step may be unnecessary.
-
-## Flag
-
-**Flag**: `BMCTF{X0R_Is_Fun}`
-
-## Additional Notes
-
-- The binary likely uses the `xor_crypt` function to XOR the input key with a hardcoded key, producing a target string compared via `strcmp`. If the challenge required the secret key, tools like Ghidra or GDB could be used to decompile `xor_crypt` and reverse the XOR operation.
-- For example, if the target string is `BMCTF{X0R_Is_Fun}` and the XOR key is found (e.g., via Ghidra), the input key could be computed as:
-    
-    ```python
-    target = "BMCTF{X0R_Is_Fun}"
-    key = "xor_key_here"  # Hypothetical key from binary
-    input_key = ''.join(chr(ord(t) ^ ord(k)) for t, k in zip(target, key * (len(target) // len(key) + 1)))
-    ```
-    
-- Since the flag was directly in the strings output, this step wasn’t needed.
-- For similar challenges, always check `strings` first, as CTF binaries often embed flags or clues in plaintext.
-
-## Lessons Learned
-
-- The `strings` command is a quick way to extract valuable information from binaries.
-- Testing a binary’s behavior with random inputs helps understand its logic.
-- For XOR-based challenges, reverse-engineering tools like Ghidra or GDB can uncover the key if the flag isn’t directly accessible.
 ---
 # ctf: idkwhattonamethis
 

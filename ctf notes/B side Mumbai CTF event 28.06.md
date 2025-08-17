@@ -241,7 +241,33 @@ Goal: extract the hidden message/flag `BMCTF{...}`.
 
 ---
 # ctf: takiya
+We’re given an image file. The name _takiya_ hints at hiding something in plain sight. Goal: extract the hidden flag.
 
+## 🛠 Step 1: Inspect the File
 
+I ran `exiftool` on the file:
+
+`exiftool takiya`
+
+Output:
+
+`File Name        : takiya File Size        : 240 kB File Type        : TXT File Type Extension: txt MIME Type        : text/plain MIME Encoding    : us-ascii Line Count       : 1 Word Count       : 1`
+
+So the file is **just one huge ASCII line**.
 ![](../_attachments/Pasted%20image%2020250628225747.png)
 
+So the file is **just one huge ASCII line**.
+
+---
+
+## 🛠 Step 2: Hex Dump
+
+To see the raw contents, I opened it with `xxd`:
+
+`xxd takiya | head -n 20`
+
+Output (snippet):
+
+`00000000: 6666 6666 6666 6666 6666 6666 6666 6666  ffffffff 00000010: 6666 6666 6666 6666 6666 6666 6666 6666  ffffffff 00000020: 6666 6666 6666 6666 6666 6666 6666 6666  ffffffff ...`
+
+The entire file was full of `66` in hex (`f` in ASCII). Basically an endless block of **f’s**.

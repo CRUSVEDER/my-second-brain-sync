@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "08722262759e22d9",
+        "id": "24ec240ba743d21e",
         "type": "tabs",
         "children": [
           {
-            "id": "79bf489fb568d274",
+            "id": "d719c22ce77cebf4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_attachments/Pasted image 20250619215227.png"
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250619215227"
+              "icon": "lucide-file",
+              "title": "Tomb Watcher (mid)"
             }
           }
         ]
@@ -137,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_attachments/Pasted image 20250619215227.png"
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250619215227"
+              "title": "Outline of Tomb Watcher (mid)"
             }
           },
           {
@@ -176,12 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79bf489fb568d274",
+  "active": "d719c22ce77cebf4",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20250619215227.png",
+    "_attachments/scan_result_tombwatcher.txt",
+    "_attachments/Unconfirmed 413117.crdownload",
     "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "_attachments/Pasted image 20250619215214.png",
     "_attachments/Pasted image 20250619215037.png",
-    "_attachments/Pasted image 20250619215227.png",
     "_attachments/Pasted image 20250628170412.png",
     "_attachments/Pasted image 20250628163453.png",
     "_attachments/Pasted image 20250628170348.png",
@@ -221,8 +226,6 @@
     "study notes CS/IF",
     "study notes CS/NFT",
     "study notes CS",
-    "Tools",
-    "Web Exploitation/SQL Injection",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

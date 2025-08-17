@@ -11,27 +11,12 @@
             "id": "79bf489fb568d274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tomb Watcher (mid)"
-            }
-          },
-          {
-            "id": "8c0d60fbc0483e3c",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "_attachments/Pasted image 20250619215037.png"
+                "file": "_attachments/Pasted image 20250619215227.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250619215037"
+              "title": "Pasted image 20250619215227"
             }
           }
         ]
@@ -152,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md"
+                "file": "_attachments/Pasted image 20250619215227.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tomb Watcher (mid)"
+              "title": "Outline of Pasted image 20250619215227"
             }
           },
           {
@@ -193,8 +178,9 @@
   },
   "active": "79bf489fb568d274",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20250619215037.png",
     "Ctf Notes/HTB/Tomb Watcher (mid).md",
+    "_attachments/Pasted image 20250619215214.png",
+    "_attachments/Pasted image 20250619215037.png",
     "_attachments/Pasted image 20250619215227.png",
     "_attachments/Pasted image 20250628170412.png",
     "_attachments/Pasted image 20250628163453.png",
@@ -218,7 +204,6 @@
     "study notes CS/IF/Untitled.md",
     "_attachments/Pasted image 20250704185927.png",
     "_attachments/Pasted image 20250704185800.png",
-    "_attachments/Pasted image 20250704185719.png",
     "General Skills/Linux Commands.md",
     "Forensics/Untitled.md",
     "aptitude/indeax.mdx",

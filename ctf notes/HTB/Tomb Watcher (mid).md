@@ -103,4 +103,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 | **3268** | globalcatLDAP    | Global Catalog service — used for forest-wide AD queries. |
 | **3269** | globalcatLDAPssl | Secure Global Catalog.                                    |
 
-# 
+# command
+`echo '10.10.11.72 DC01.tombwatcher.htb tombwatcher.htb' | sudo tee -a /etc/hosts`
+
+# ![](../../_attachments/Pasted%20image%2020250817152620.png)

@@ -256,8 +256,6 @@ Output:
 So the file is **just one huge ASCII line**.
 ![](../_attachments/Pasted%20image%2020250628225747.png)
 
-So the file is **just one huge ASCII line**.
-
 ---
 
 ## 🛠 Step 2: Hex Dump

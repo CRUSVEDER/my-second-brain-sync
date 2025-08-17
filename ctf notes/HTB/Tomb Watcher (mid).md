@@ -17,7 +17,7 @@ using ping
 ---
 # Scanning
 
-## command i used:
+## Using Nmap :
 `nmap -p 1-5000 -sC -sV -T4 -oN scan_result_tombwatcher.txt 10.10.11.72`
 
 ![](../../_attachments/Pasted%20image%2020250619215214.png)
@@ -107,7 +107,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 # Setting Up the Environment
 
-## command i used: 
+## update the /etc/hosts: 
+
 `echo '10.10.11.72 DC01.tombwatcher.htb tombwatcher.htb' | sudo tee -a /etc/hosts`
 
 ![](../../_attachments/Pasted%20image%2020250817152620.png)
@@ -163,3 +164,18 @@ We tested the credentials `henry:H3nry_987TGV!` against the SMB service on `10.1
 
 ## SMB Enumeration:
 
+Using smbclient, we list available shares:
+
+```
+smbclient -L //10.10.11.72 -U 'tombwatcher.htb\henry%H3nry_987TGV!'
+```
+
+```
+ Sharename       Type      Comment
+        ---------       ----      -------
+        ADMIN$          Disk      Remote Admin
+        C$              Disk      Default share
+        IPC$            IPC       Remote IPC
+        NETLOGON        Disk      Logon server share 
+        SYSVOL          Disk      Logon server share 
+```

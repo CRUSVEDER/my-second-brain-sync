@@ -47,215 +47,104 @@ The goal is to decrypt the ciphertext to recover the flag, which follows the for
 
 ## Solution Approach
 
-### Step 1: Understand RSA
+## 🛠 Step 1: Spotting the Weakness
 
+RSA is only secure when the modulus `N` is huge (e.g., 2048 bits).  
+Here, `N` is only ~41 bits (`log2(N) ≈ 40.7`) – tiny enough to factor instantly.
 
-### Step 2: Factor the Modulus
+So our approach is clear: **factor N → calculate φ(N) → compute private key d → decrypt.**
 
-The modulus ( N = 2214361715201 ) is relatively small (approximately 41 bits, since ( \log_2(N) \approx 40.7 )). In CTF challenges, a small modulus often indicates that factoring is feasible. We can use a factorization tool like FactorDB or a mathematical library like SymPy in Python:
+---
 
-```python
-from sympy import factorint
+## 🛠 Step 2: Factoring N
 
-N = 2214361715201
-factors = factorint(N)
-print(factors)
-```
+Using Python’s `sympy.factorint`:
 
-Output:
-
-```
-{1299709: 1, 1704709: 1}
-```
-
-Thus:
-
-[ N = 1299709 \cdot 1704709 ]
-
-Verify:
-
-[ 1299709 \cdot 1704709 = 2214361715201 ]
-
-So, ( p = 1299709 ) and ( q = 1704709 ), both prime.
-
-### Step 3: Compute ( \phi(N) )
-
-Euler’s totient function is:
-
-[ \phi(N) = (p-1)(q-1) ]
-
-Calculate:
-
-[ p-1 = 1299709 - 1 = 1299708 ]  
-[ q-1 = 1704709 - 1 = 1704708 ]
-
-[ \phi(N) = 1299708 \cdot 1704708 ]
-
-Using Python:
-
-```python
-p = 1299709
-q = 1704709
-phi_N = (p - 1) * (q - 1)
-print(phi_N)
-```
+`from sympy import factorint  N = 2214361715201 print(factorint(N))`
 
 Output:
 
-[ \phi(N) = 2214358710784 ]
+`{1299709: 1, 1704709: 1}`
 
-### Step 4: Compute the Private Key
+So:
 
-The private key ( d ) is the modular inverse of ( e = 65537 ) modulo ( \phi(N) ):
+- `p = 1299709`
+    
+- `q = 1704709`
+    
 
-[ d \cdot e \equiv 1 \mod \phi(N) ]
+Check: `p * q = N ✅`
 
-Using SymPy’s `mod_inverse`:
+---
 
-```python
-from sympy import mod_inverse
+## 🛠 Step 3: Euler’s Totient
 
-e = 65537
-phi_N = 2214358710784
-d = mod_inverse(e, phi_N)
-print(d)
-```
+Formula:
 
-Output:
+φ(N)=(p−1)(q−1)\varphi(N) = (p-1)(q-1)φ(N)=(p−1)(q−1)
 
-[ d = 1156154451217 ]
-
-Verify:
-
-[ 1156154451217 \cdot 65537 \mod 2214358710784 = 1 ]
-
-This confirms ( d ) is correct.
-
-### Step 5: Decrypt the Ciphertext
-
-Decrypt the ciphertext ( c = 799827088267 ):
-
-[ m = c^d \mod N ]
-
-Using Python’s `pow` for modular exponentiation:
-
-```python
-c = 799827088267
-N = 2214361715201
-d = 1156154451217
-m = pow(c, d, N)
-print(m)
-```
+`p = 1299709 q = 1704709 phi_N = (p-1) * (q-1) print(phi_N)`
 
 Output:
 
-[ m = 1635730432794 ]
+`2214358710784`
 
-The plaintext is ( m = 1635730432794 ), with hexadecimal representation:
+---
 
-```python
-hex_m = hex(m)[2:]
-print(hex_m)
-```
+## 🛠 Step 4: Private Key (d)
 
-Output:
+The private key `d` is the modular inverse of `e` modulo φ(N):
 
-[ \text{hex_m} = \text{17d8d6b6b2aa} ]
-
-### Step 6: Interpret the Plaintext
-
-In CTF challenges, the plaintext ( m ) is often a string (e.g., ASCII or alphanumeric) encoded as a number. We tried converting ( m ) to bytes:
-
-```python
-hex_m = "17d8d6b6b2aa"
-try:
-    flag = bytes.fromhex(hex_m).decode("ascii")
-    print(flag)
-except:
-    print("Non-ASCII bytes")
-```
+`from sympy import mod_inverse  e = 65537 d = mod_inverse(e, phi_N) print(d)`
 
 Output:
 
-```
-Non-ASCII bytes
-```
+`1156154451217`
 
-The bytes `[0x17, 0xd8, 0xd6, 0xb6, 0xb2, 0xaa]` (decimal: `[23, 216, 214, 182, 178, 170]`) are not printable ASCII, suggesting ( m ) is not a direct ASCII string. Since the challenge accepts flags in the format `BMCTF{...}`, we hypothesized that the flag is either the decimal ( m = 1635730432794 ) or its hexadecimal form `17d8d6b6b2aa`.
+---
 
-### Step 7: Flag Submission
+## 🛠 Step 5: Decryption
 
-We submitted both:
+Now decrypt the ciphertext:
+
+m=cdmod  Nm = c^d \mod Nm=cdmodN
+
+`c = 799827088267 m = pow(c, d, N) print(m)`
+
+Output:
+
+`1635730432794`
+
+So plaintext `m = 1635730432794`.
+
+---
+
+## 🛠 Step 6: Interpreting m
+
+Convert to hex:
+
+`hex_m = hex(m)[2:] print(hex_m)`
+
+Output:
+
+`17d8d6b6b2aa`
+
+The bytes weren’t printable ASCII. But in CTFs, flags sometimes just use the raw decimal/hex values.
+
+Tried both:
 
 - `BMCTF{1635730432794}`
+    
 - `BMCTF{17d8d6b6b2aa}`
-
-Both were accepted, indicating the challenge allows the plaintext ( m ) in either decimal or hexadecimal form within the `BMCTF{}` wrapper. This is common in CTF challenges where the plaintext is a number, and the flag format accepts its raw representation.
-
-### Step 8: Alternative Considerations
-
-Initially, we explored other encodings (e.g., base64, base36, digit-to-character mapping), but these produced strings like `F9jWtrKq` or `1f8z0lui`, which were not needed since the raw ( m ) worked. For completeness, we could have used tools like RsaCtfTool to automate attacks, but factoring ( N ) was straightforward due to its small size.
-
-## Final Script
-
-Below is the complete Python script to solve the challenge:
-
-```python
-from sympy import mod_inverse
-
-# Given values
-c = 799827088267
-N = 2214361715201
-e = 65537
-
-# Factor N (from FactorDB or computation)
-p = 1299709
-q = 1704709
-assert p * q == N
-
-# Compute phi(N)
-phi_N = (p - 1) * (q - 1)
-
-# Compute private key d
-d = mod_inverse(e, phi_N)
-
-# Decrypt
-m = pow(c, d, N)
-hex_m = hex(m)[2:]
-
-# Output flags
-print("Flag (decimal): BMCTF{" + str(m) + "}")
-print("Flag (hex): BMCTF{" + hex_m + "}")
-```
-
-Output:
-
-```
-Flag (decimal): BMCTF{1635730432794}
-Flag (hex): BMCTF{17d8d6b6b2aa}
-```
-
-## Lessons Learned
-
-- **Small Modulus**: A 41-bit modulus is easily factored using tools like FactorDB or SymPy, a common CTF design to make RSA solvable.
-- **Flag Format**: Always check the expected flag format. Here, the plaintext’s raw decimal and hex forms were accepted.
-- **Tools**: Libraries like SymPy or tools like RsaCtfTool can simplify RSA challenges, especially for factoring or common attacks (e.g., Wiener’s, small exponent).
-
-## Final Answer
-
-The flags are:
-
-[ \boxed{\text{BMCTF{1635730432794}}} ]  
-[ \boxed{\text{BMCTF{17d8d6b6b2aa}}} ]
-
-Both were accepted by the challenge platform.
 ---
 # ctf: XORRY (50)
 
 downloaded the file and cat command on 
 
 ![](../_attachments/Pasted%20image%2020250628161152.png)
+The binary didn’t have execute permissions initially, so I fixed that:
 
+`chmod +x XORyy`
 
 ![](../_attachments/Pasted%20image%2020250628161341.png)
 

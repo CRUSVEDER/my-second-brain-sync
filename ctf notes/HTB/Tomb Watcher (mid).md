@@ -114,8 +114,42 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ---
 # Gaining Access:
-### Checking  the Provided Credentials in machine:
+## Testing the Supplied Credentials on the Target
 
-We start by validating the provided credentials (henry:H3nry_987TGV!) against the SMB service using crackmapexec:
+The next step is to confirm whether the given credentials (`henry:H3nry_987TGV!`) are valid. To do this, we try authenticating against the SMB service on the target using 
+
+**CrackMapExec** :`crackmapexec smb 10.10.11.72 -u henry -p 'H3nry_987TGV!' -d tombwatcher.htb`
+
+If the login is successful, CrackMapExec will display confirmation that the account works with SMB.
 
 ![](../../_attachments/Pasted%20image%2020250817153552.png)
+
+### Output:
+
+┌──(root㉿kali)-[/home/kali/Downloads]
+└─# crackmapexec smb 10.10.11.72 -u henry -p 'H3nry_987TGV!' -d tombwatcher.htb
+/usr/lib/python3/dist-packages/cme/cli.py:35: SyntaxWarning: invalid escape sequence '\ '
+  """,
+[*] First time use detected
+[*] Creating home directory structure
+[*] Creating default workspace
+[*] Initializing RDP protocol database
+[*] Initializing WINRM protocol database
+[*] Initializing LDAP protocol database
+[*] Initializing SSH protocol database
+[*] Initializing MSSQL protocol database
+[*] Initializing SMB protocol database
+[*] Initializing FTP protocol database
+[*] Copying default configuration file
+[*] Generating SSL certificate
+/usr/lib/python3/dist-packages/cme/protocols/winrm.py:324: SyntaxWarning: invalid escape sequence '\S'
+  self.conn.execute_cmd("reg save HKLM\SAM C:\\windows\\temp\\SAM && reg save HKLM\SYSTEM C:\\windows\\temp\\SYSTEM")
+/usr/lib/python3/dist-packages/cme/protocols/winrm.py:338: SyntaxWarning: invalid escape sequence '\S'
+  self.conn.execute_cmd("reg save HKLM\SECURITY C:\\windows\\temp\\SECURITY && reg save HKLM\SYSTEM C:\\windows\\temp\\SYSTEM")
+/usr/lib/python3/dist-packages/cme/protocols/smb/smbexec.py:49: SyntaxWarning: invalid escape sequence '\p'
+  stringbinding = 'ncacn_np:%s[\pipe\svcctl]' % self.__host
+/usr/lib/python3/dist-packages/cme/protocols/smb/smbexec.py:93: SyntaxWarning: invalid escape sequence '\{'
+  command = self.__shell + 'echo '+ data + ' ^> \\\\127.0.0.1\\{}\\{} 2^>^&1 > %TEMP%\{} & %COMSPEC% /Q /c %TEMP%\{} & %COMSPEC% /Q /c del %TEMP%\{}'.format(self.__share_name, self.__output, self.__batchFile, self.__batchFile, self.__batchFile)
+SMB         10.10.11.72     445    DC01             [*] Windows 10 / Server 2019 Build 17763 x64 (name:DC01) (domain:tombwatcher.htb) (signing:True) (SMBv1:False)
+SMB         10.10.11.72     445    DC01             [+] tombwatcher.htb\henry:H3nry_987TGV! 
+

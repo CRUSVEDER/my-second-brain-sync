@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "Tomb Watcher (mid)"
             }
+          },
+          {
+            "id": "8c0d60fbc0483e3c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/Pasted image 20250619215037.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250619215037"
+            }
           }
         ]
       }
@@ -181,13 +193,14 @@
   },
   "active": "79bf489fb568d274",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20250619215037.png",
+    "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "_attachments/Pasted image 20250619215227.png",
     "_attachments/Pasted image 20250628170412.png",
     "_attachments/Pasted image 20250628163453.png",
     "_attachments/Pasted image 20250628170348.png",
     "_attachments/Pasted image 20250628163152.png",
     "_attachments/Pasted image 20250628162405.png",
-    "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "Ctf Notes/B side Mumbai CTF event 28.06.md",
     "Ctf Notes/Collections of CTF write-ups.md",
     "Ctf Notes/ctf basics.md",
@@ -213,8 +226,6 @@
     "aptitude/Untitled.md",
     "README.md",
     "aptitude/Untitled.mdx",
-    "_attachments/Pasted image 20250629112800.png",
-    "_attachments/Pasted image 20250628225747.png",
     "Tools/NMAP.md",
     "Tools/Metasploit.md",
     "Tools/Untitled.md",

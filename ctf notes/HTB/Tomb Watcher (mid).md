@@ -15,29 +15,18 @@ using ping
 ![](../../_attachments/Pasted%20image%2020250619215158.png)
 
 ---
-# Scan
+# Scanning
+
+## command i used:
+`nmap -p 1-5000 -sC -sV -T4 -oN scan_result_tombwatcher.txt 10.10.11.72`
 
 ![](../../_attachments/Pasted%20image%2020250619215214.png)
 ![](../../_attachments/Pasted%20image%2020250619215227.png)
 
 this reveals:
 
-## outputs
+## outputs:
 
-| Port     | Service          | Purpose                                                   |
-| -------- | ---------------- | --------------------------------------------------------- |
-| **53**   | domain           | DNS — often used by AD for internal name resolution.      |
-| **80**   | http             | Web service — may host admin panels or web interfaces.    |
-| **88**   | kerberos-sec     | Kerberos authentication — core part of AD.                |
-| **135**  | msrpc            | Microsoft RPC — used for various Windows services.        |
-| **139**  | netbios-ssn      | NetBIOS — legacy file/printer sharing.                    |
-| **389**  | ldap             | LDAP — directory services, typically AD-related.          |
-| **445**  | microsoft-ds     | SMB — file sharing, often exploitable.                    |
-| **464**  | kpasswd5         | Kerberos password change service.                         |
-| **593**  | http-rpc-epmap   | Remote procedure call over HTTP.                          |
-| **636**  | ldapssl          | LDAP over SSL/TLS.                                        |
-| **3268** | globalcatLDAP    | Global Catalog service — used for forest-wide AD queries. |
-| **3269** | globalcatLDAPssl | Secure Global Catalog.                                    |
 
 ````
 # Nmap 7.94SVN scan initiated Sun Aug 17 05:36:27 2025 as: /usr/lib/nmap/nmap -p 1-5000 -sC -sV -T4 -oN scan_result_tombwatcher.txt 10.10.11.72
@@ -96,3 +85,22 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Sun Aug 17 05:38:29 2025 -- 1 IP address (1 host up) scanned in 122.41 seconds
 ````
 
+
+### ports & sv explained:
+
+| Port     | Service          | Purpose                                                   |
+| -------- | ---------------- | --------------------------------------------------------- |
+| **53**   | domain           | DNS — often used by AD for internal name resolution.      |
+| **80**   | http             | Web service — may host admin panels or web interfaces.    |
+| **88**   | kerberos-sec     | Kerberos authentication — core part of AD.                |
+| **135**  | msrpc            | Microsoft RPC — used for various Windows services.        |
+| **139**  | netbios-ssn      | NetBIOS — legacy file/printer sharing.                    |
+| **389**  | ldap             | LDAP — directory services, typically AD-related.          |
+| **445**  | microsoft-ds     | SMB — file sharing, often exploitable.                    |
+| **464**  | kpasswd5         | Kerberos password change service.                         |
+| **593**  | http-rpc-epmap   | Remote procedure call over HTTP.                          |
+| **636**  | ldapssl          | LDAP over SSL/TLS.                                        |
+| **3268** | globalcatLDAP    | Global Catalog service — used for forest-wide AD queries. |
+| **3269** | globalcatLDAPssl | Secure Global Catalog.                                    |
+
+# 

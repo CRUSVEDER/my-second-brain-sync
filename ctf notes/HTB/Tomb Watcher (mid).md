@@ -112,3 +112,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ![](../../_attachments/Pasted%20image%2020250817152620.png)
 
+---
+# Gaining Access:
+### Checking  the Provided Credentials in machine:
+
+We start by validating the provided credentials (henry:H3nry_987TGV!) against the SMB service using crackmapexec:
+
+![](../../_attachments/Pasted%20image%2020250817153552.png)

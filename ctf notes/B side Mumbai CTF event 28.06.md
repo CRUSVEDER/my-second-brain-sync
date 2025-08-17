@@ -233,6 +233,10 @@ to analyse i used radare2 too
 ---
 # ctf: Disk Message
 
+The challenge provided a disk image (or file disguised as one). The name _Disk Message_ suggests that some data was hidden inside the file system or raw disk sectors.  
+Goal: extract the hidden message/flag `BMCTF{...}`.
+
+
 ![](../_attachments/Pasted%20image%2020250628184421.png)
 
 ---

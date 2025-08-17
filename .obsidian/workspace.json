@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24ec240ba743d21e",
+        "id": "7c50b0b39eaff2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "d719c22ce77cebf4",
+            "id": "b0e8aba4a585cbec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,9 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d719c22ce77cebf4",
+  "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "Ctf Notes/cyber arena.md",
+    "Ctf Notes/ctf basics.md",
+    "Ctf Notes/Collections of CTF write-ups.md",
     "Ctf Notes/HTB/Tomb Watcher (mid).md",
+    "_attachments/Pasted image 20250629112800.png",
+    "Ctf Notes/B side Mumbai CTF event 28.06.md",
     "_attachments/Pasted image 20250817155429.png",
     "_attachments/Pasted image 20250817154414.png",
     "_attachments/Pasted image 20250817153552.png",
@@ -193,11 +198,6 @@
     "_attachments/Pasted image 20250619215037.png",
     "_attachments/Pasted image 20250628170412.png",
     "_attachments/Pasted image 20250628163453.png",
-    "_attachments/Pasted image 20250628170348.png",
-    "Ctf Notes/B side Mumbai CTF event 28.06.md",
-    "Ctf Notes/Collections of CTF write-ups.md",
-    "Ctf Notes/ctf basics.md",
-    "Ctf Notes/cyber arena.md",
     "Ctf Notes/HTB/TombWatcher.md",
     "Ctf Notes/HTB",
     "study notes CS/python/refrence.md",

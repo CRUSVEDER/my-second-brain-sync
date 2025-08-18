@@ -198,3 +198,4 @@ The following shares were discovered:
 gobuster dir -u http://10.10.11.72 -w /usr/share/wordlists/dirb/common.txt -x .php,.asp,.aspx,.txt
 ```
 
+

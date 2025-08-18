@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md",
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B side Mumbai CTF event 28.06"
+              "title": "Tomb Watcher (mid)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "548c75d4a5bb118a",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md",
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from B side Mumbai CTF event 28.06"
+              "title": "Outgoing links from Tomb Watcher (mid)"
             }
           },
           {
@@ -141,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ctf Notes/B side Mumbai CTF event 28.06.md"
+                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of B side Mumbai CTF event 28.06"
+              "title": "Outline of Tomb Watcher (mid)"
             }
           },
           {
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +191,8 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20250628153333.png",
     "Ctf Notes/B side Mumbai CTF event 28.06.md",
+    "_attachments/Pasted image 20250628153333.png",
     "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "_attachments/Pasted image 20250628225747.png",
     "_attachments/Pasted image 20250628184421.png",
@@ -210,7 +208,6 @@
     "_attachments/scan_result_tombwatcher.txt",
     "_attachments/Unconfirmed 413117.crdownload",
     "_attachments/Pasted image 20250619215214.png",
-    "_attachments/Pasted image 20250619215037.png",
     "Ctf Notes/HTB/TombWatcher.md",
     "Ctf Notes/HTB",
     "study notes CS/python/refrence.md",

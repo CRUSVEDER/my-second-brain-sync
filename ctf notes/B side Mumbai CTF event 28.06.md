@@ -19,13 +19,15 @@ downloaded the file value.txt
  cat the file 
 
 i got : 
+
 c = 799827088267
 N = 2214361715201
 e = 65537
+so i know now its a rsa problem.
 
 ![](../_attachments/Pasted%20image%2020250628154346.png)
 
-used exiftool to check the file details
+i used exiftool to check the file details
 
 - Ciphertext `c = 799827088267`
     
@@ -47,7 +49,7 @@ The goal is to decrypt the ciphertext to recover the flag, which follows the for
 
 ## Solution Approach
 
-## 🛠 Step 1: Spotting the Weakness
+##  Step 1: Spotting the Weakness
 
 RSA is only secure when the modulus `N` is huge (e.g., 2048 bits).  
 Here, `N` is only ~41 bits (`log2(N) ≈ 40.7`) – tiny enough to factor instantly.
@@ -56,7 +58,7 @@ So our approach is clear: **factor N → calculate φ(N) → compute private key
 
 ---
 
-## 🛠 Step 2: Factoring N
+##  Step 2: Factoring N
 
 Using Python’s `sympy.factorint`:
 
@@ -77,7 +79,7 @@ Check: `p * q = N
 
 ---
 
-## 🛠 Step 3: Euler’s Totient
+## Step 3: Euler’s Totient
 
 Formula:
 
@@ -91,7 +93,7 @@ Output:
 
 ---
 
-## 🛠 Step 4: Private Key (d)
+##  Step 4: Private Key (d)
 
 The private key `d` is the modular inverse of `e` modulo φ(N):
 
@@ -103,7 +105,7 @@ Output:
 
 ---
 
-## 🛠 Step 5: Decryption
+##  Step 5: Decryption
 
 Now decrypt the ciphertext:
 
@@ -119,7 +121,7 @@ So plaintext `m = 1635730432794`.
 
 ---
 
-## 🛠 Step 6: Interpreting m
+##  Step 6: Interpreting m
 
 Convert to hex:
 
@@ -159,7 +161,7 @@ If I entered something random (`test, key, etc`), it just said:
 
 
 ![](../_attachments/Pasted%20image%2020250628161439.png)
-## 🛠 Step 2: Static Analysis with `strings`
+##  Static Analysis with `strings`
 
 Next move: check if the flag is simply embedded in the binary. Classic beginner trick.
 
@@ -178,7 +180,7 @@ flag found after reading list
 
 ![](../_attachments/Pasted%20image%2020250628162405.png)
 
-## downloaded and runned cat command its same as above using ELF (Executable and Linkable Format) binary file.
+ downloaded and run cat command its same as above using ELF (Executable and Linkable Format) binary file.
 
 ![](../_attachments/Pasted%20image%2020250628163152.png)
 

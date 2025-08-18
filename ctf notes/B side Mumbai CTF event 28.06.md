@@ -18,7 +18,7 @@ downloaded the file value.txt
 ![](../_attachments/Pasted%20image%2020250628153333.png)
  cat the file 
 
-
+i got : 
 c = 799827088267
 N = 2214361715201
 e = 65537

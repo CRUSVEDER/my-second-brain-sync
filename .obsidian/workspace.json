@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "548c75d4a5bb118a",
@@ -162,12 +161,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +181,9 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
-    "Ctf Notes/HTB/Tomb Watcher (mid).md",
+    "_attachments/Pasted image 20250628153333.png",
     "Ctf Notes/B side Mumbai CTF event 28.06.md",
+    "Ctf Notes/HTB/Tomb Watcher (mid).md",
     "_attachments/Pasted image 20250628225747.png",
     "_attachments/Pasted image 20250628184421.png",
     "Ctf Notes/cyber arena.md",

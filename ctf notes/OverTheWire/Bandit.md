@@ -1,4 +1,6 @@
 - [Bandit](https://overthewire.org/wargames/bandit)
+- 
+
 ---
 # LEVELS:
 
@@ -19,10 +21,7 @@
   
 ---
 
-[Level 0 → Level 1](https://overthewire.org/wargames/bandit/bandit1.html) 
-- [Bandit](https://overthewire.org/wargames/bandit)
-- [Level 0](https://overthewire.org/wargames/bandit/bandit0.html)
-- [Level 0 → Level 1](https://overthewire.org/wargames/bandit/bandit1.html) ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+- [Level 0 → Level 1](https://overthewire.org/wargames/bandit/bandit1.html) `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 - [Level 1 → Level 2](https://overthewire.org/wargames/bandit/bandit2.html)
 - [Level 2 → Level 3](https://overthewire.org/wargames/bandit/bandit3.html)
 - [Level 3 → Level 4](https://overthewire.org/wargames/bandit/bandit4.html)

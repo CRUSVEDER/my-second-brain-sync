@@ -2,6 +2,8 @@
 dg-publish:
 ---
 ---
+**2. Your task is to choose an active, medium-difficulty HackTheBox machine and write a detailed report on Medium.com about how you captured the flag. In your report, show both your successful and failed attempts, and explain why you used specific tools, such as Nmap or Burp Suite, and the penetration testing methods you followed. Ensure that your NullClass username and timestamp are visible in the screenshots of your HackTheBox session. Focus on uncommon attack methods, create custom scripts or payloads if possible, and include network diagrams—the more detailed, the better. Reflect on what you learned throughout the process. Please note that if any write-ups or materials about the machine you chose have already been published online before your Medium.com post, your submission will not be accepted. Reports on retired machines are not allowed.**
+
 medium link: https://yashgholap.medium.com/task-2-be5ec9cf1a68
 # Connect
 

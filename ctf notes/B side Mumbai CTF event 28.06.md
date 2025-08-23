@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 ---
-medium link: 
+**1. Your task is to select an upcoming CTF event from the CTFtime calendar and take a screenshot of the event page with a timestamp to confirm your participation. Ensure your CTFtime username matches your NullClass username. During the competition, solve challenges independently (no teams) and document both your successful and failed attempts. In your Medium report, explain why you used specific tools or methods, such as Nmap or Burp Suite, and include problem statements, your solution approach, code snippets, and screenshots of your progress. Make sure to capture completed challenges and leaderboard position. Note: If any write-ups or materials about the challenges are published online before your Medium post, your submission will not be accepted.**
+
+medium link: https://medium.com/@yashgholap/task-1-ba21fedd9bd8
 
 ![](../_attachments/Pasted%20image%2020250629112800.png)
 

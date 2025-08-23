@@ -6,6 +6,32 @@ dg-publish: true
 
 medium link: https://medium.com/@yashgholap/task-1-ba21fedd9bd8
 
+
+![](https://miro.medium.com/v2/resize:fit:415/0*kL3KMw1bhQ0sWyoi.png)
+
+image from ctftime.org of BSidemumbai ctf2025, an 24hrs duration ctf
+
+![](https://miro.medium.com/v2/resize:fit:700/0*3qQ-bpRQmBgdfMdF.png)
+
+more detailed image realated to event
+
+![](https://miro.medium.com/v2/resize:fit:700/0*FFtBcKhlSDueFEh4.png)
+
+date of ctf proof
+
+**28–29 June 2025 date of ctf**
+
+
+![](https://miro.medium.com/v2/resize:fit:700/0*NEXfSJdFyYl7wPMC.png)
+
+participated in ctf event
+
+participated in the BSidemumbai ctf event.
+
+This are the challenges give in the ctf event:
+## CTF : BsideCTF
+
+
 ![](../../_attachments/Pasted%20image%2020250629112800.png)
 
 

@@ -35,7 +35,7 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
     
 - **File Analysis**: Used `exiftool` and `xxd` to detect hidden or unusual content in files.
     
-
+- 
 **Outcome**: Multiple flags were recovered using cryptography, binary analysis, and file inspection techniques.
 
 📸 [Insert Screenshot Here]  

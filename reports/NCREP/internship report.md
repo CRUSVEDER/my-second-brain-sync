@@ -34,11 +34,10 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
 - **Binary Reversing**: Applied `radare2` to analyze binary functions and identify hidden logic.
     
 - **File Analysis**: Used `exiftool` and `xxd` to detect hidden or unusual content in files.
-    
-- 
+
+
 **Outcome**: Multiple flags were recovered using cryptography, binary analysis, and file inspection techniques.
 
-📸 [Insert Screenshot Here]  
 🔗 medium link: https://medium.com/@yashgholap/task-1-ba21fedd9bd8
 
 ---
@@ -54,21 +53,12 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
 - **SMB Enumeration**: Listed available shares using `smbclient`, which revealed ADMIN$, C$, IPC$, NETLOGON, and SYSVOL.
     
 - **Web Enumeration**: Used Gobuster for directory brute forcing on the IIS server.
-    
+
 
 **Outcome**: Gained valid access through SMB, enumerated shares, and confirmed the environment as a Windows Server domain controller.
 
-📸 [Insert Screenshot Here]  
 🔗 medium link: https://yashgholap.medium.com/task-2-be5ec9cf1a68
 
----
-
-### Task 3: [Optional if completed]
-
-[Insert description of additional task or leave blank if none.]
-
-📸 [Insert Screenshot Here]  
-🔗 [Insert Medium Link Here]
 
 ---
 
@@ -91,9 +81,8 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
     📸 [Insert Screenshot Here]
     
 - Medium write-ups of selected tasks.  
-    🔗 [Insert Medium Link Here]
-    
-- Obsidian notes exported as PDF for internal record.
+    🔗 medium link task 1: https://medium.com/@yashgholap/task-1-ba21fedd9bd8
+    🔗 medium link task 1: https://yashgholap.medium.com/task-2-be5ec9cf1a68
 
 ## Challenges and Solutions
 
@@ -105,9 +94,6 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
     
 - **Too Many Open Ports in Pentest Lab**  
     _Solution_: Focused on the core Active Directory services first before moving to web enumeration.
-    
-
-📸 [Insert Screenshot Here]
 
 ## Outcomes and Impact
 

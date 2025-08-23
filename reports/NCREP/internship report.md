@@ -77,13 +77,7 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
 
 ## Feedback and Evidence
 
-- **Clarity**: The language is simple, direct, and avoids fluff — exactly what’s expected in an internship report.
-    
-- **Structure**: You’ve covered all the required sections (Intro, Background, Tasks, Skills, Evidence, etc.) in a logical flow.
-    
-- **Technical Depth**: You mention specific tools (`radare2`, `CrackMapExec`, `Nmap`, etc.) instead of vague terms. That shows hands-on learning.
-
- - Screenshots :
+- Screenshots :
 
 Task 1:
 

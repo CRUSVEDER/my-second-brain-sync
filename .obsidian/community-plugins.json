@@ -2,5 +2,6 @@
   "multi-properties",
   "mdx-as-md-obsidian",
   "obsidian-git",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "spoiler-block-obsidian"
 ]

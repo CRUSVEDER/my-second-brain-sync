@@ -16,9 +16,10 @@
 - To move from level `n` to `n+1`, use:
   `ssh bandit<n>@bandit.labs.overthewire.org -p 2220`
   and the password you got from the previous level.
-  ---
+  
+---
 
-[Level 0 → Level 1](https://overthewire.org/wargames/bandit/bandit1.html)
+[Level 0 → Level 1](https://overthewire.org/wargames/bandit/bandit1.html) ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 [Level 1 → Level 2](https://overthewire.org/wargames/bandit/bandit2.html)
 [Level 2 → Level 3](https://overthewire.org/wargames/bandit/bandit3.html)
 [Level 3 → Level 4](https://overthewire.org/wargames/bandit/bandit4.html)

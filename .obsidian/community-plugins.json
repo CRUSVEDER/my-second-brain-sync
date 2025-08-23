@@ -1,5 +1,6 @@
 [
   "multi-properties",
   "mdx-as-md-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition"
 ]

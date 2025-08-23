@@ -2,6 +2,7 @@
 dg-publish:
 ---
 ---
+medium link: https://yashgholap.medium.com/task-2-be5ec9cf1a68
 # Connect
 
 ![](../../_attachments/Pasted%20image%2020250619215037.png)

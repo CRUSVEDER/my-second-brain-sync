@@ -2,6 +2,8 @@
 dg-publish: true
 ---
 ---
+medium link: 
+
 ![](../_attachments/Pasted%20image%2020250629112800.png)
 
 

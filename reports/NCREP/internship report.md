@@ -77,9 +77,27 @@ The tasks were designed to reflect real-world security scenarios. CTF problems h
 
 ## Feedback and Evidence
 
-- Screenshots of solved challenges and enumeration steps.  
-    📸 [Insert Screenshot Here]
+- **Clarity**: The language is simple, direct, and avoids fluff — exactly what’s expected in an internship report.
     
+- **Structure**: You’ve covered all the required sections (Intro, Background, Tasks, Skills, Evidence, etc.) in a logical flow.
+    
+- **Technical Depth**: You mention specific tools (`radare2`, `CrackMapExec`, `Nmap`, etc.) instead of vague terms. That shows hands-on learning.
+
+ - Screenshots :
+
+Task 1:
+
+![](https://miro.medium.com/v2/resize:fit:700/0*NEXfSJdFyYl7wPMC.png)
+*i took this before ctf started.*
+
+![](../../_attachments/Pasted%20image%2020250629112800.png)
+
+Task 2:
+
+![](../../_attachments/Pasted%20image%2020250619215120.png)
+
+![](../../_attachments/Pasted%20image%2020250619215158.png)
+
 - Medium write-ups of selected tasks.  
     🔗 medium link task 1: https://medium.com/@yashgholap/task-1-ba21fedd9bd8
     🔗 medium link task 1: https://yashgholap.medium.com/task-2-be5ec9cf1a68

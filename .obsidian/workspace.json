@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study notes CS/python/Functions.md",
+                "file": "Ctf Notes/OverTheWire/Wargames/1.Bandit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Functions"
+              "title": "Backlinks for 1.Bandit"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md",
+                "file": "Ctf Notes/OverTheWire/Wargames/1.Bandit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tomb Watcher (mid)"
+              "title": "Outgoing links from 1.Bandit"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ctf Notes/HTB/Tomb Watcher (mid).md"
+                "file": "Ctf Notes/OverTheWire/Wargames/1.Bandit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tomb Watcher (mid)"
+              "title": "Outline of 1.Bandit"
             }
           },
           {
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e8aba4a585cbec",
+  "active": "f2df03747a2ec0b0",
   "lastOpenFiles": [
     "Ctf Notes/OverTheWire/Wargames/12.FormulaOne.md",
     "Ctf Notes/OverTheWire/Wargames/11.Drifter.md",

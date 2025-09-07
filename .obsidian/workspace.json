@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Networking Core Protocols/Untitled.md",
+                "file": "Network Security/Networking Core Protocols/DHCP (Give Me My Network Settings).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "DHCP (Give Me My Network Settings)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "right": {
     "id": "548c75d4a5bb118a",
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Networking Core Protocols/Untitled.md"
+                "file": "Network Security/Networking Core Protocols/DHCP (Give Me My Network Settings).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of DHCP (Give Me My Network Settings)"
             }
           },
           {
@@ -194,7 +194,7 @@
     "Network Security/network security basics.md",
     "Network Security/Networking Secure Protocols/Untitled.md",
     "Network Security/Networking Essentials/Untitled.md",
-    "Network Security/Networking Core Protocols/Untitled.md",
+    "Network Security/Networking Core Protocols/DHCP (Give Me My Network Settings).md",
     "Network Security/Networking Concepts/UDP and TCP.md",
     "Network Security/Networking Secure Protocols",
     "Network Security/Networking Core Protocols",

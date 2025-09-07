@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ctf Notes/picoCTF/Untitled.md",
+                "file": "Network Security/Networking Core Protocols/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ctf Notes/picoCTF/Untitled.md"
+                "file": "Network Security/Networking Core Protocols/Untitled.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Untitled"
@@ -191,8 +191,22 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
-    "Ctf Notes/OverTheWire/Wargames/10.Manpage.md",
+    "Network Security/network security basics.md",
+    "Network Security/Networking Secure Protocols/Untitled.md",
+    "Network Security/Networking Essentials/Untitled.md",
+    "Network Security/Networking Core Protocols/Untitled.md",
+    "Network Security/Networking Concepts/UDP and TCP.md",
+    "Network Security/Networking Secure Protocols",
+    "Network Security/Networking Core Protocols",
+    "Network Security/Networking Essentials",
+    "Network Security/Networking Concepts/Untitled.md",
+    "Network Security/Networking Concepts/Telnet.md",
+    "Network Security/Networking Concepts/TCP_IP Model.md",
+    "Network Security/Networking Concepts/OSI Model.md",
+    "Network Security/Networking Concepts/IP address and Subnet.md",
+    "Network Security/Networking Concepts/Encapsulation.md",
     "Ctf Notes/picoCTF/Untitled.md",
+    "Ctf Notes/OverTheWire/Wargames/10.Manpage.md",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
     "Ctf Notes/OverTheWire/Wargames/1.Bandit.md",
     "Ctf Notes/picoCTF/Untitled",
@@ -209,24 +223,11 @@
     "Ctf Notes/OverTheWire/Wargames/12.FormulaOne.md",
     "Ctf Notes/OverTheWire/Wargames/11.Drifter.md",
     "Ctf Notes/OverTheWire/Wargames/8.Maze.md",
-    "Ctf Notes/OverTheWire/Wargames/7.Utumno.md",
-    "Ctf Notes/OverTheWire/Wargames/6.Behemoth.md",
-    "Ctf Notes/OverTheWire/Wargames/5.Narnia.md",
-    "Ctf Notes/OverTheWire/Wargames/4.Krypton.md",
-    "Ctf Notes/OverTheWire/Wargames/3.Leviathan.md",
-    "Ctf Notes/OverTheWire/Wargames/9.Vortex.md",
-    "Ctf Notes/OverTheWire/Wargames/L5Narnia.md",
     "Ctf Notes/OverTheWire",
-    "Ctf Notes/OverTheWire/Wargames/L3Leviathan.md",
-    "Ctf Notes/OverTheWire/Wargames/L2Natas.md",
-    "Ctf Notes/OverTheWire/Wargames/L1Bandit.md",
     "Ctf Notes/OverTheWire/FormulaOne",
     "Ctf Notes/OverTheWire/Drifter",
     "Ctf Notes/OverTheWire/Manpage",
     "Ctf Notes/OverTheWire/Vortex",
-    "Ctf Notes/OverTheWire/Maze",
-    "Ctf Notes/OverTheWire/Utumno",
-    "Ctf Notes/OverTheWire/Behemoth",
     "_attachments/Pasted image 20250628153333.png",
     "_attachments/Pasted image 20250628225747.png",
     "_attachments/Pasted image 20250628184421.png",

@@ -796,6 +796,3 @@ This guide provides a **detailed, structured breakdown** of all suggested featur
 
 ---
 
-If you want, the **next step** could be to create a **visual roadmap/timeline with days and dependencies**, so you can literally **see what to build week by week** for your portfolio launch.
-
-Do you want me to create that visual timeline next?

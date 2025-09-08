@@ -332,7 +332,6 @@ Alright Crus ⚡ now let’s **map the Mega Roadmap features to the actual tech 
 I’ll keep the roadmap phases (short / mid / long term), but under each feature I’ll add **implementation notes: which library / framework part / approach to use**.
 
 ---
-
 # Short-Term (0–1 month) → Core + Polishing
 
 **Design / UX**

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/nmap/conclusion.md",
+                "file": "projects/Enhancements Features.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conclusion"
+              "title": "Enhancements Features"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/nmap/conclusion.md"
+                "file": "projects/Enhancements Features.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conclusion"
+              "title": "Outline of Enhancements Features"
             }
           },
           {
@@ -191,10 +191,12 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "projects/project lists.md",
+    "projects/Enhancements Features.md",
+    "Tools/nmap/conclusion.md",
     "Tools/nmap/_NMAP.md",
     "reports/OpenVAS.md",
     "reports/NCREP/Task 1.md",
-    "Tools/nmap/conclusion.md",
     "Tools/nmap/Output.md",
     "Tools/nmap/Timing.md",
     "Tools/nmap/Version Detection.md",
@@ -221,8 +223,6 @@
     "Ctf Notes/OverTheWire/Wargames/1.Bandit.md",
     "Ctf Notes/picoCTF/Untitled",
     "Ctf Notes/OverTheWire/Wargames/2.Natas.md",
-    "reports/NCREP/internship report.md",
-    "reports/NCREP/Task 2.md",
     "reports/NCREP",
     "Ctf Notes/OverTheWire",
     "Ctf Notes/OverTheWire/FormulaOne",

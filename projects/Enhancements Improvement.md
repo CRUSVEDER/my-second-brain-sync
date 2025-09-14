@@ -60,7 +60,7 @@
 
 ### Content / Blog Features
 
-27. Estimated reading time (with icons).
+27. ~~Estimated reading time (with icons).~~
     
 28. Post difficulty badges (Beginner / Intermediate / Advanced).
     

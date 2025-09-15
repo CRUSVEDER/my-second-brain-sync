@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Enhancements Improvement.md",
+                "file": "Network Security/Networking Essentials/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enhancements Improvement"
+              "title": "Untitled"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Enhancements Improvement.md"
+                "file": "Network Security/Networking Essentials/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Enhancements Improvement"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +192,11 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
-    "projects/Enhancements Features.md",
+    "Network Security/Networking Secure Protocols/Untitled.md",
+    "Network Security/Networking Essentials/Untitled.md",
+    "Network Security/Networking Essentials/DHCP (Give Me My Network Settings).md",
     "projects/Enhancements Improvement.md",
+    "projects/Enhancements Features.md",
     "projects/project lists.md",
     "Tools/nmap/conclusion.md",
     "Tools/nmap/_NMAP.md",
@@ -204,10 +208,7 @@
     "Tools/nmap/Port Scanning.md",
     "Tools/nmap/Host Discovery.md",
     "Tools/nmap",
-    "Network Security/Networking Core Protocols/DHCP (Give Me My Network Settings).md",
     "Network Security/network security basics.md",
-    "Network Security/Networking Secure Protocols/Untitled.md",
-    "Network Security/Networking Essentials/Untitled.md",
     "Network Security/Networking Concepts/UDP and TCP.md",
     "Network Security/Networking Secure Protocols",
     "Network Security/Networking Core Protocols",

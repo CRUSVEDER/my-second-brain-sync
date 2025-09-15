@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/3.Networking Core Protocols/Untitled.md",
+                "file": "Network Security/4.Networking Secure Protocols/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/3.Networking Core Protocols/Untitled.md"
+                "file": "Network Security/4.Networking Secure Protocols/Untitled.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Untitled"
@@ -192,8 +192,16 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "Network Security/4.Networking Secure Protocols/SSH.md",
+    "Network Security/4.Networking Secure Protocols/Untitled.md",
+    "Network Security/4.Networking Secure Protocols/SMTP, POP3S, and IMAPS.md",
+    "Network Security/4.Networking Secure Protocols/HTTPS.md",
+    "Network Security/4.Networking Secure Protocols/TLS.md",
+    "Network Security/3.Networking Core Protocols/Conclusion.md",
+    "Network Security/3.Networking Core Protocols/IMAP(Synchronizing Email).md",
+    "Network Security/3.Networking Core Protocols/POP3(Receiving Email).md",
+    "Network Security/3.Networking Core Protocols/SMTP(Sending Email).md",
     "Network Security/3.Networking Core Protocols/FTP(Transferring Files).md",
-    "Network Security/3.Networking Core Protocols/Untitled.md",
     "Network Security/3.Networking Core Protocols/HTTP(S)(Accessing the Web).md",
     "Network Security/3.Networking Core Protocols/WHOIS.md",
     "Network Security/3.Networking Core Protocols/DNS(Remembering Addresses).md",
@@ -201,7 +209,6 @@
     "Network Security/2.Networking Essentials/Routing.md",
     "Network Security/2.Networking Essentials/ICMP(Troubleshooting Networks).md",
     "Network Security/2.Networking Essentials/ARP (Bridging Layer 3 Addressing to Layer 2 Addressing).md",
-    "Network Security/4.Networking Secure Protocols/Untitled.md",
     "Network Security/2.Networking Essentials/DHCP (Give Me My Network Settings).md",
     "projects/Enhancements Improvement.md",
     "projects/Enhancements Features.md",
@@ -211,17 +218,10 @@
     "reports/OpenVAS.md",
     "reports/NCREP/Task 1.md",
     "Tools/nmap/Output.md",
-    "Tools/nmap/Timing.md",
-    "Tools/nmap/Version Detection.md",
-    "Tools/nmap/Port Scanning.md",
-    "Tools/nmap/Host Discovery.md",
     "Tools/nmap",
-    "Network Security/network security basics.md",
-    "Network Security/1.Networking Concepts/UDP and TCP.md",
     "Network Security/4.Networking Secure Protocols",
     "Network Security/3.Networking Core Protocols",
     "Network Security/2.Networking Essentials",
-    "Network Security/Networking Concepts/Untitled.md",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
     "Ctf Notes/picoCTF/Untitled",
     "reports/NCREP",

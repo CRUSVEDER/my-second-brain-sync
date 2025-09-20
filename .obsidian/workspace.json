@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/4.Networking Secure Protocols/HTTPS.md",
+                "file": "Blogs/how to write malware.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HTTPS"
+              "title": "how to write malware"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,10 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/4.Networking Secure Protocols/HTTPS.md"
+                "file": "Blogs/how to write malware.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTPS"
+              "title": "Outline of how to write malware"
             }
           },
           {
@@ -166,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -179,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,51 +197,51 @@
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
     "test001/Untitled.md",
-    "Network Security/4.Networking Secure Protocols/VPN.md",
-    "test001",
-    "Network Security/4.Networking Secure Protocols/TLS.md",
-    "Network Security/4.Networking Secure Protocols/SSH.md",
-    "Network Security/4.Networking Secure Protocols/SMTP, POP3S, and IMAPS.md",
-    "Network Security/4.Networking Secure Protocols/HTTPS.md",
-    "Network Security/4.Networking Secure Protocols/Closing Note.md",
-    "Tools/nmap/Version Detection.md",
-    "Tools/nmap/Port Scanning.md",
-    "Tools/nmap/Timing.md",
-    "Tools/nmap/Output.md",
-    "Tools/nmap/Host Discovery.md",
-    "Tools/nmap/_NMAP.md",
-    "README.md",
-    "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
-    "Web Exploitation/SQL Injection/SQL Injection Basics.md",
-    "Web Exploitation/SQL Injection/Types of SQL Injection.md",
-    "Network Security/network security basics.md",
-    "Network Security/4.Networking Secure Protocols/SFTP and FTPS.md",
-    "Network Security/3.Networking Core Protocols/Conclusion.md",
-    "Network Security/3.Networking Core Protocols/IMAP(Synchronizing Email).md",
-    "Network Security/3.Networking Core Protocols/POP3(Receiving Email).md",
-    "Network Security/3.Networking Core Protocols/SMTP(Sending Email).md",
-    "Network Security/3.Networking Core Protocols/FTP(Transferring Files).md",
-    "Network Security/3.Networking Core Protocols/HTTP(S)(Accessing the Web).md",
-    "Network Security/3.Networking Core Protocols/WHOIS.md",
-    "Tools/nmap",
-    "Network Security/4.Networking Secure Protocols",
-    "Network Security/3.Networking Core Protocols",
-    "Network Security/2.Networking Essentials",
+    "Blogs/how to write malware.md",
+    "Blogs",
+    "Google CS pro/files/tcpip-vs-osi-models.png",
+    "Google CS pro/files/tcpdump.png",
+    "Google CS pro/files/pyramidofpain.png",
+    "Google CS pro/files/provisioning.png",
+    "Google CS pro/files/malware.png",
+    "Google CS pro/files/ipv4-vs-ipv6.png",
+    "Google CS pro/files/ipv4-packet.png",
+    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
+    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
+    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
+    "Google CS pro/7 Automate Cybersecurity Tasks with Python/4 Python in practice.md",
+    "Google CS pro/7 Automate Cybersecurity Tasks with Python/3 Work with strings and lists.md",
+    "Google CS pro/7 Automate Cybersecurity Tasks with Python/2 Write effective Python code.md",
+    "Google CS pro/7 Automate Cybersecurity Tasks with Python/1 Introduction to Python.md",
+    "Google CS pro/6 Sound the Alarm - Detection and Response/4 Network traffic and logs using IDS and SIEM tools.md",
+    "Google CS pro/6 Sound the Alarm - Detection and Response/3 Incident investigation and response.md",
+    "Google CS pro/6 Sound the Alarm - Detection and Response/2 Network monitoring and analysis.md",
+    "Google CS pro/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
+    "Google CS pro/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
+    "Google CS pro/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
+    "Google CS pro/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
+    "Google CS pro/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
+    "Google CS pro/4 Tools of the Trade - Linux and SQL/virtualzation.md",
+    "Google CS pro/4 Tools of the Trade - Linux and SQL/4 Databases and SQL.md",
+    "Google CS pro/4 Tools of the Trade - Linux and SQL/3 Linux commands in the Bash shell.md",
+    "Google CS pro/4 Tools of the Trade - Linux and SQL/2 The Linux operating system.md",
+    "Google CS pro/4 Tools of the Trade - Linux and SQL/1 Introduction to operating systems.md",
+    "Google CS pro/3 Connect and Protect - Networks and Network Security/4 Security hardening.md",
+    "Google CS pro/3 Connect and Protect - Networks and Network Security/3 Secure against network intrusions.md",
+    "Google CS pro/3 Connect and Protect - Networks and Network Security/2 Network operations.md",
+    "Google CS pro/3 Connect and Protect - Networks and Network Security/1 Network architecture.md",
+    "Google CS pro/files",
+    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs",
+    "Google CS pro/7 Automate Cybersecurity Tasks with Python",
+    "Google CS pro/6 Sound the Alarm - Detection and Response",
+    "Google CS pro/5 Assets, Threats, and Vulnerabilities",
+    "Google CS pro/4 Tools of the Trade - Linux and SQL",
+    "Google CS pro/3 Connect and Protect - Networks and Network Security",
+    "Google CS pro/2 Play It Safe - Manage Security Risks",
+    "Google CS pro/1 Foundations of Cybersecurity",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
-    "Ctf Notes/picoCTF/Untitled",
-    "reports/NCREP",
-    "Ctf Notes/OverTheWire",
-    "Ctf Notes/OverTheWire/FormulaOne",
-    "Ctf Notes/OverTheWire/Drifter",
     "_attachments/Pasted image 20250628153333.png",
     "_attachments/Pasted image 20250628225747.png",
-    "_attachments/Pasted image 20250628184421.png",
-    "_attachments/Pasted image 20250629112800.png",
-    "_attachments/Pasted image 20250817155429.png",
-    "_attachments/Pasted image 20250817154414.png",
-    "_attachments/Pasted image 20250817153552.png",
-    "_attachments/Pasted image 20250817152620.png",
-    "_attachments/Pasted image 20250619215227.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

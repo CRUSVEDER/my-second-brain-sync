@@ -1,3 +1,4 @@
+![](../../_attachments/5f04259cf9bf5b57aed2c476-1723126044024.svg)
 There are many more ways to filter packets. After all, in any real-life situation, we would need to filter through thousands or even millions of packets. It is indispensable to be able to express the exact packets to display. For example, we can limit the displayed packets to those smaller or larger than a certain length:
 
 - `greater LENGTH`: Filters packets that have a length greater than or equal to the specified length

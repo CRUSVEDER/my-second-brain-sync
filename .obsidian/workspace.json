@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Tcpdump(the basics)/Displaying packets.md",
+                "file": "projects/Enhancements Features.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Displaying packets"
+              "title": "Enhancements Features"
             }
           }
         ]
@@ -41,8 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 326.5
   },
   "right": {
     "id": "548c75d4a5bb118a",
@@ -141,13 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Tcpdump(the basics)/Displaying packets.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "projects/Enhancements Features.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Displaying packets"
+              "title": "Outline of Enhancements Features"
             }
           },
           {
@@ -179,11 +175,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,54 +189,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecdeb42ae17d66d9",
+  "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
-    "Network Security/Wireshark(the basics)",
-    "Network Security/Tcpdump(the basics)/advanced filtering.md",
+    "projects/project lists.md",
+    "projects/Enhancements Improvement.md",
+    "Network Security/4.Networking Secure Protocols/HTTPS.md",
     "_attachments/5f04259cf9bf5b57aed2c476-1723126044024.svg",
-    "Network Security/Tcpdump(the basics)/filtering expressions.md",
-    "Network Security/Tcpdump(the basics)/Basic packet capture.md",
-    "Network Security/Tcpdump(the basics)/Untitled 3.md",
-    "Network Security/Tcpdump(the basics)/Displaying packets.md",
     "Network Security/Tcpdump(the basics)/Introduction.md",
-    "Blogs/how to write malware.md",
+    "Network Security/Tcpdump(the basics)/filtering expressions.md",
+    "Network Security/Tcpdump(the basics)/Displaying packets.md",
+    "Network Security/Tcpdump(the basics)/Basic packet capture.md",
+    "Network Security/Tcpdump(the basics)/advanced filtering.md",
     "Network Security/Tcpdump(the basics)",
-    "test001/Untitled.md",
+    "Blogs/how to write malware.md",
     "Blogs",
-    "Google CS pro/files/tcpip-vs-osi-models.png",
-    "Google CS pro/files/tcpdump.png",
-    "Google CS pro/files/pyramidofpain.png",
-    "Google CS pro/files/provisioning.png",
-    "Google CS pro/files/malware.png",
-    "Google CS pro/files/ipv4-vs-ipv6.png",
-    "Google CS pro/files/ipv4-packet.png",
-    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
-    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
-    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
-    "Google CS pro/7 Automate Cybersecurity Tasks with Python/4 Python in practice.md",
-    "Google CS pro/7 Automate Cybersecurity Tasks with Python/3 Work with strings and lists.md",
-    "Google CS pro/7 Automate Cybersecurity Tasks with Python/2 Write effective Python code.md",
-    "Google CS pro/7 Automate Cybersecurity Tasks with Python/1 Introduction to Python.md",
-    "Google CS pro/6 Sound the Alarm - Detection and Response/4 Network traffic and logs using IDS and SIEM tools.md",
-    "Google CS pro/6 Sound the Alarm - Detection and Response/3 Incident investigation and response.md",
-    "Google CS pro/6 Sound the Alarm - Detection and Response/2 Network monitoring and analysis.md",
-    "Google CS pro/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities/1 Introduction to asset security.md",
-    "Google CS pro/4 Tools of the Trade - Linux and SQL/virtualzation.md",
-    "Google CS pro/4 Tools of the Trade - Linux and SQL/4 Databases and SQL.md",
-    "Google CS pro/files",
-    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs",
-    "Google CS pro/7 Automate Cybersecurity Tasks with Python",
-    "Google CS pro/6 Sound the Alarm - Detection and Response",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities",
-    "Google CS pro/4 Tools of the Trade - Linux and SQL",
-    "Google CS pro/3 Connect and Protect - Networks and Network Security",
-    "Google CS pro/2 Play It Safe - Manage Security Risks",
+    "test001/Untitled.md",
+    "Network Security/4.Networking Secure Protocols/VPN.md",
+    "test001",
+    "Network Security/4.Networking Secure Protocols/TLS.md",
+    "Network Security/4.Networking Secure Protocols/SSH.md",
+    "Network Security/4.Networking Secure Protocols/SMTP, POP3S, and IMAPS.md",
+    "Network Security/4.Networking Secure Protocols/Closing Note.md",
+    "Tools/nmap/Version Detection.md",
+    "Tools/nmap/Port Scanning.md",
+    "Tools/nmap/Timing.md",
+    "Tools/nmap/Output.md",
+    "Tools/nmap/Host Discovery.md",
+    "Tools/nmap/_NMAP.md",
+    "README.md",
+    "Web Exploitation/SQL Injection/How to Find and Exploit SQL Vulnerabilities.md",
+    "Web Exploitation/SQL Injection/SQL Injection Basics.md",
+    "Web Exploitation/SQL Injection/Types of SQL Injection.md",
+    "Network Security/network security basics.md",
+    "Tools/nmap",
+    "Network Security/4.Networking Secure Protocols",
+    "Network Security/3.Networking Core Protocols",
+    "Network Security/2.Networking Essentials",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
+    "Ctf Notes/picoCTF/Untitled",
+    "reports/NCREP",
+    "Ctf Notes/OverTheWire",
     "_attachments/Pasted image 20250628153333.png",
+    "_attachments/Pasted image 20250628225747.png",
+    "_attachments/Pasted image 20250628184421.png",
+    "_attachments/Pasted image 20250629112800.png",
+    "_attachments/Pasted image 20250817155429.png",
+    "_attachments/Pasted image 20250817154414.png",
+    "_attachments/Pasted image 20250817153552.png",
+    "_attachments/Pasted image 20250817152620.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

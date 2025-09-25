@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/OpenVAS.md",
+                "file": "projects/project lists.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenVAS"
+              "title": "project lists"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/OpenVAS.md"
+                "file": "projects/project lists.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of OpenVAS"
+              "title": "Outline of project lists"
             }
           },
           {
@@ -191,12 +191,13 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "projects/Enhancements Improvement.md",
+    "projects/Enhancements Features.md",
+    "projects/Developing a vulnerability scanner.md",
+    "reports/OpenVAS.md",
     "reports/Nessus.md",
     "study notes CS/python/refrence.md",
-    "projects/Developing a vulnerability scanner.md",
     "projects/project lists.md",
-    "projects/Enhancements Features.md",
-    "projects/Enhancements Improvement.md",
     "Network Security/4.Networking Secure Protocols/HTTPS.md",
     "_attachments/5f04259cf9bf5b57aed2c476-1723126044024.svg",
     "Network Security/Tcpdump(the basics)/Introduction.md",
@@ -220,7 +221,6 @@
     "Tools/nmap/Output.md",
     "Tools/nmap/Host Discovery.md",
     "Tools/nmap/_NMAP.md",
-    "README.md",
     "Tools/nmap",
     "Network Security/4.Networking Secure Protocols",
     "Network Security/3.Networking Core Protocols",

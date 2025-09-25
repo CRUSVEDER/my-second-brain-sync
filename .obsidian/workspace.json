@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/project lists.md",
+                "file": "Malware/Day1 mawlare series.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project lists"
+              "title": "Day1 mawlare series"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/project lists.md"
+                "file": "Malware/Day1 mawlare series.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of project lists"
+              "title": "Outline of Day1 mawlare series"
             }
           },
           {
@@ -191,13 +191,15 @@
   },
   "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "Malware/learn ip.md",
+    "Malware/Day1 mawlare series.md",
+    "projects/project lists.md",
     "projects/Enhancements Improvement.md",
     "projects/Enhancements Features.md",
     "projects/Developing a vulnerability scanner.md",
     "reports/OpenVAS.md",
     "reports/Nessus.md",
     "study notes CS/python/refrence.md",
-    "projects/project lists.md",
     "Network Security/4.Networking Secure Protocols/HTTPS.md",
     "_attachments/5f04259cf9bf5b57aed2c476-1723126044024.svg",
     "Network Security/Tcpdump(the basics)/Introduction.md",
@@ -219,8 +221,6 @@
     "Tools/nmap/Port Scanning.md",
     "Tools/nmap/Timing.md",
     "Tools/nmap/Output.md",
-    "Tools/nmap/Host Discovery.md",
-    "Tools/nmap/_NMAP.md",
     "Tools/nmap",
     "Network Security/4.Networking Secure Protocols",
     "Network Security/3.Networking Core Protocols",

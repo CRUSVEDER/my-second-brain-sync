@@ -74,7 +74,7 @@
 
 ---
 
-## 🧑‍💻 **7. Blue Team & SOC Projects**
+## 🔵 **7. Blue Team & SOC Projects**
 
 |Project Title|Description|Tech Stack / Tools|🔮 Future Relevance|
 |---|---|---|---|
@@ -83,4 +83,90 @@
 |Incident Response Toolkit|Automated scripts for memory/disk forensics|`Volatility`, `FTK Imager`, `Python`, `Shell`|★★★|
 |Insider Threat Detection System|Log and detect abnormal user behavior|`User Behavior Analytics`, `Elastic`, `Kibana`|★★★|
 |Live Forensics System for Cloud VMs|Cloud-native forensics framework|`AWS Lambda`, `Python`, `S3`, `EC2`, `CloudTrail`|★★★|
+
+---
+
+## ☁️ 8. **Cloud Security Projects**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|AWS IAM Misconfiguration Scanner|Scan AWS accounts for over-permissive roles & policies|`Boto3`, `Python`, `AWS Config`, `CloudSploit`|★★★|
+|Cloud Bucket Enumeration & Exploitation Tool|Detect exposed S3, GCP, or Azure buckets|`Python`, `AWS CLI`, `Bash`|★★★|
+|Serverless Function Exploit Framework|Discover and exploit insecure Lambda functions|`Node.js`, `AWS Lambda`, `Python`|★★★|
+|Multi-Cloud Compliance Scanner|Audit environments for compliance (CIS/NIST)|`Terraform`, `GCP/Azure SDK`, `Open Policy Agent`|★★★|
+|Cloud Honeypot with Alerts|Deploy honeypots in AWS/GCP that trigger alerts|`AWS CloudWatch`, `SNS`, `Python`, `Dionaea`|★★☆|
+
+---
+
+## 🌐 9.**OSINT & Recon Tools**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|People & Org OSINT Toolkit|Collect social and corporate data via scraping|`Python`, `Scrapy`, `Shodan`, `Maltego`|★★★|
+|Dark Web Monitor|Detect leaked credentials or keywords on darknet|`Tor`, `Python`, `BeautifulSoup`, `OpenAI`|★★★|
+|Subdomain Takeover Detection Tool|Scan for dangling DNS records|`Python`, `Dig`, `MassDNS`, `BurpSuite`|★★☆|
+|Recon-as-a-Service (RaaS) Platform|Automate recon workflows for bug bounty|`Docker`, `Recon-ng`, `Amass`, `Flask`|★★★|
+|Threat Actor Profiling System|Track APT activity using public intel feeds|`MISP`, `Python`, `MITRE ATT&CK`, `ELK`|★★★|
+
+---
+
+## 🧩 10.**IoT / SCADA / OT Security Projects**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|IoT Device Traffic Analyzer|Monitor abnormal behavior in IoT devices|`Scapy`, `nDPI`, `Wireshark`, `Python`|★★★|
+|PLC Honeypot Simulator|Simulate industrial control systems for attackers|`Conpot`, `Kali`, `Docker`, `Modbus`|★★★|
+|Firmware Static Analyzer|Analyze embedded firmware for backdoors|`Binwalk`, `Firmware-Mod-Kit`, `Ghidra`|★★★|
+|Smart Home Exploit Lab|Simulate attacks on smart home tech (Zigbee, MQTT)|`Raspberry Pi`, `Wireshark`, `Zigbee2MQTT`|★★☆|
+|IoT Network Segmentation Lab|Setup secure VLANs & isolate IoT networks|`pfSense`, `Cisco Packet Tracer`, `Python`|★★☆|
+
+---
+
+## 🧬 11.**AI/ML in Cybersecurity (More Ideas)**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|GPT-Based Phishing Email Generator/Detector|Create and detect AI-generated phishing|`OpenAI API`, `Python`, `SpamAssassin`|★★★|
+|LLM for SOC Alert Triage|Use GPT to sort, classify, and respond to alerts|`SIEM`, `GPT-4`, `SOAR tools`, `LangChain`|★★★|
+|Behavior-Based Insider Threat ML Model|Detect unusual access patterns|`Python`, `Isolation Forest`, `ELK`, `Kibana`|★★★|
+|Deep Learning for Malware Signature Generation|Use DL to generate new malware variants|`PyTorch`, `Cuckoo Sandbox`, `VirusTotal`|★★★|
+|ML-Driven Bug Bounty Toolkit|Prioritize vulnerabilities using ML + CVSS|`Python`, `CVSS`, `Scikit-learn`|★★☆|
+
+---
+
+## 🧱 12.**Privacy & Anonymity Projects**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|Onion Routing Protocol Simulator|Mimic how Tor routes encrypted packets|`Python`, `Flask`, `Socket`|★★☆|
+|Decentralized VPN with Blockchain Auth|Auth via smart contracts, encrypt via VPN|`OpenVPN`, `Solidity`, `Ethereum`, `WireGuard`|★★★|
+|Privacy Browser with Fingerprint Randomizer|Prevent browser fingerprinting/tracking|`Electron.js`, `JavaScript`, `Tor`|★★★|
+|Secure Messaging App with Forward Secrecy|Encrypted P2P chat with perfect forward secrecy|`NaCl`, `Libsodium`, `WebRTC`, `Flutter`|★★★|
+|GDPR/CCPA Compliance Scanner|Check websites for privacy violations|`Python`, `Selenium`, `BeautifulSoup`, `BurpSuite`|★★☆|
+
+---
+
+## 🔬 13.**Digital Forensics Projects**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|Windows Memory Forensics Toolkit|Analyze RAM dumps to find malware|`Volatility`, `WinDbg`, `Python`|★★★|
+|Browser Artifact Analyzer|Extract user activity from browsers|`Python`, `SQLite`, `Chrome History Parser`|★★☆|
+|Timeline Reconstruction Tool|Build user action timeline from logs & metadata|`Log2timeline`, `Plaso`, `Python`|★★★|
+|Cloud Incident Forensics Lab|Simulate attack & investigate logs|`AWS CloudTrail`, `ELK`, `Python`|★★★|
+|Mobile Device Forensic Extractor|Extract data from Android/iOS|`ADB`, `Autopsy`, `Magnet AXIOM`, `Python`|★★☆|
+
+---
+
+## 🔧 14.**DevSecOps / Automation Projects**
+
+|Project Title|Description|Tools/Stack|🔮 Relevance|
+|---|---|---|---|
+|DevSecOps CI/CD Pipeline|Secure pipeline with automated scans|`GitHub Actions`, `Trivy`, `Snyk`, `OWASP ZAP`|★★★|
+|Container Hardening Tool|Analyze and harden Dockerfiles automatically|`Docker`, `Python`, `Clair`, `Anchore`|★★★|
+|IaC Security Scanner|Scan Terraform/CloudFormation for misconfigs|`Checkov`, `Terraform`, `Python`, `OPA`|★★★|
+|Secrets Detection Bot for Git|Auto-scan repos for leaked secrets|`TruffleHog`, `GitHooks`, `Python`|★★★|
+|Automated Threat Hunting Pipeline|Pull logs, detect anomalies, alert|`Python`, `Elastic Stack`, `Sigma Rules`|★★★|
+
+---
 

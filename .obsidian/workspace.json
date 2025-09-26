@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "important libraries"
             }
+          },
+          {
+            "id": "1c3e3fd5f7d0602f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware/important libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for important libraries"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware/important libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from important libraries"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware/important libraries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of important libraries"
+              "title": "Outline"
             }
           },
           {
@@ -177,11 +190,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e8aba4a585cbec",
+  "active": "1c3e3fd5f7d0602f",
   "lastOpenFiles": [
+    "Development/Top 10 Python Libraries for Cybersecurity.md",
+    "conflict-files-obsidian-git.md",
+    "Development",
+    "Malware/important libraries.md",
     "Malware/Day1 mawlare series.md",
     "Malware/learn ip.md",
-    "conflict-files-obsidian-git.md",
-    "Malware/important libraries.md",
     "Network Security/Tcpdump(the basics)/Displaying packets.md",
     "Network Security/Wireshark(the basics)",
     "Network Security/Tcpdump(the basics)/advanced filtering.md",
@@ -234,14 +249,12 @@
     "Google CS pro/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
     "Google CS pro/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
     "Google CS pro/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities/2 Protect organizational assets.md",
     "Google CS pro/files",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs",
     "Google CS pro/7 Automate Cybersecurity Tasks with Python",
     "Google CS pro/6 Sound the Alarm - Detection and Response",
     "Google CS pro/5 Assets, Threats, and Vulnerabilities",
     "Google CS pro/4 Tools of the Trade - Linux and SQL",
-    "Google CS pro/3 Connect and Protect - Networks and Network Security",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
     "_attachments/Pasted image 20250628153333.png",
     "Untitled.canvas",

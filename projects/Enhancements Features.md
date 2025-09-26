@@ -681,15 +681,15 @@ This guide provides a **detailed, structured breakdown** of all suggested featur
 
 ## **Phase 1 – Quick Wins / High Impact**
 
-|Feature|Effort|Impact|Notes|
-|---|---|---|---|
-|Dark/Light Theme Switcher|0.5 day|High|Immediate UX enhancement|
-|Password Manager Tool (client-side)|1–2 days|High|Showcases security utility|
-|CTF Practice Arena (basic 3 challenges)|2–3 days|High|Hands-on interactive feature|
-|Live Tool Tutorial (1 Nmap tutorial)|1–2 days|High|Interactive educational content|
-|Certifications Display|1 day|High|Builds credibility|
-|Donation/Support Button|0.5 day|Medium|Monetization start|
-|Password Strength Analyzer|0.5–1 day|Medium|Utility + educational|
+| Feature                                 | Effort    | Impact | Notes                           |
+| --------------------------------------- | --------- | ------ | ------------------------------- |
+| Dark/Light Theme Switcher               | 0.5 day   | High   | Immediate UX enhancement        |
+| Password Manager Tool (client-side)     | 1–2 days  | High   | Showcases security utility      |
+| CTF Practice Arena (basic 3 challenges) | 2–3 days  | High   | Hands-on interactive feature    |
+| Live Tool Tutorial (1 Nmap tutorial)    | 1–2 days  | High   | Interactive educational content |
+| Certifications Display                  | 1 day     | High   | Builds credibility              |
+| Donation/Support Button                 | 0.5 day   | Medium | Monetization start              |
+| Password Strength Analyzer              | 0.5–1 day | Medium | Utility + educational           |
 
 **Goal:** Have a **functional portfolio with interactive learning, basic security tools, and personalization** within 1 week.
 

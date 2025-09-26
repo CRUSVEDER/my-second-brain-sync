@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware/important libraries.md",
+                "file": "Malware/malacious python libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "important libraries"
+              "title": "malacious python libraries"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware/important libraries.md",
+                "file": "Malware/malacious python libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for important libraries"
+              "title": "Backlinks for malacious python libraries"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware/important libraries.md",
+                "file": "Malware/malacious python libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from important libraries"
+              "title": "Outgoing links from malacious python libraries"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware/important libraries.md",
+                "file": "Malware/malacious python libraries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of important libraries"
+              "title": "Outline of malacious python libraries"
             }
           },
           {
@@ -196,12 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2df03747a2ec0b0",
+  "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "Malware/important libraries.md",
+    "Malware/malacious python libraries.md",
     "Development/Top 10 Python Libraries for Cybersecurity.md",
     "conflict-files-obsidian-git.md",
     "Development",
-    "Malware/important libraries.md",
     "Malware/Day1 mawlare series.md",
     "Malware/learn ip.md",
     "Network Security/Tcpdump(the basics)/Displaying packets.md",
@@ -235,7 +236,6 @@
     "Google CS pro/6 Sound the Alarm - Detection and Response/2 Network monitoring and analysis.md",
     "Google CS pro/6 Sound the Alarm - Detection and Response/1 Introduction to detection and incident response.md",
     "Google CS pro/5 Assets, Threats, and Vulnerabilities/4 Threats to asset security.md",
-    "Google CS pro/5 Assets, Threats, and Vulnerabilities/3 Vulnerabilities in systems.md",
     "Google CS pro/files",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs",
     "Google CS pro/7 Automate Cybersecurity Tasks with Python",

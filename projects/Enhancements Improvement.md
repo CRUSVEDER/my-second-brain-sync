@@ -335,17 +335,11 @@ I’ll keep the roadmap phases (short / mid / long term), but under each feature
 # Short-Term (0–1 month) → Core + Polishing
 
 **Design / UX**
-
 1. **Table of Contents (floating sidebar)** → `rehype-slug` + `rehype-autolink-headings` (already in your deps) + custom `Toc.tsx` in React.
-    
 2. **Estimated reading time** → Use `reading-time` (already in your deps).
-    
 3. **Breadcrumbs** → Create a `Breadcrumb.tsx` component, add in `layout-post.tsx`.
-    
 4. **Sticky Quick Actions bar** → React component + Tailwind `fixed bottom-4 right-4`.
-    
 5. **Copy-to-clipboard on code** → `navigator.clipboard.writeText` + custom `CodeBlock.tsx`.
-    
 
 **Content / Blog**  
 6. **Related posts** → Use `posts.json`, filter by tags.  

@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "important libraries"
             }
-          },
-          {
-            "id": "1c3e3fd5f7d0602f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Malware/important libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for important libraries"
             }
           },
           {
@@ -129,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Malware/important libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from important libraries"
             }
           },
           {
@@ -157,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Malware/important libraries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of important libraries"
             }
           },
           {
@@ -190,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3e3fd5f7d0602f",
+  "active": "f2df03747a2ec0b0",
   "lastOpenFiles": [
     "Development/Top 10 Python Libraries for Cybersecurity.md",
     "conflict-files-obsidian-git.md",

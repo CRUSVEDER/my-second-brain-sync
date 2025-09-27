@@ -6,20 +6,20 @@ dg-publish: true
 
 medium link: https://medium.com/@yashgholap/task-1-ba21fedd9bd8
 
-![](../_attachments/Pasted%20image%2020250629112800.png)
+![](../../_attachments/Pasted%20image%2020250629112800.png)
 
 
 
 # ctf: Too Small I Guess (500)
-![](../_attachments/Pasted%20image%2020250628153414.png)
+![](../../_attachments/Pasted%20image%2020250628153414.png)
 
 
 
-![](../_attachments/Pasted%20image%2020250628153445.png)
+![](../../_attachments/Pasted%20image%2020250628153445.png)
 
 downloaded the file value.txt
 
-![](../_attachments/Pasted%20image%2020250628153333.png)
+![](../../_attachments/Pasted%20image%2020250628153333.png)
  cat the file 
 
 i got : 
@@ -29,7 +29,7 @@ N = 2214361715201
 e = 65537
 so i know now its a rsa problem.
 
-![](../_attachments/Pasted%20image%2020250628154346.png)
+![](../../_attachments/Pasted%20image%2020250628154346.png)
 
 i used exiftool to check the file details
 
@@ -144,12 +144,12 @@ The bytes weren’t printable ASCII. But in CTFs, flags sometimes just use the r
 
 downloaded the file and cat command on 
 
-![](../_attachments/Pasted%20image%2020250628161152.png)
+![](../../_attachments/Pasted%20image%2020250628161152.png)
 The binary didn’t have execute permissions initially, so I fixed that:
 
 `chmod +x XORyy`
 
-![](../_attachments/Pasted%20image%2020250628161341.png)
+![](../../_attachments/Pasted%20image%2020250628161341.png)
 
 Now I could run it:
 
@@ -164,7 +164,7 @@ If I entered something random (`test, key, etc`), it just said:
 `Incorrect key. Try again.`
 
 
-![](../_attachments/Pasted%20image%2020250628161439.png)
+![](../../_attachments/Pasted%20image%2020250628161439.png)
 ##  Static Analysis with `strings`
 
 Next move: check if the flag is simply embedded in the binary. Classic beginner trick.
@@ -175,29 +175,29 @@ Found some interesting strings:
 
 `Enter the secret key: Incorrect key. Try again. Congratulations! You found the flag: BMCTF{X0R_Is_Fun} xor_crypt strcmp`
 
-![](../_attachments/Pasted%20image%2020250628161705.png)
+![](../../_attachments/Pasted%20image%2020250628161705.png)
 
 flag found after reading list
 
 ---
 # ctf: idkwhattonamethis
 
-![](../_attachments/Pasted%20image%2020250628162405.png)
+![](../../_attachments/Pasted%20image%2020250628162405.png)
 
  downloaded and run cat command its same as above using ELF (Executable and Linkable Format) binary file.
 
-![](../_attachments/Pasted%20image%2020250628163152.png)
+![](../../_attachments/Pasted%20image%2020250628163152.png)
 
 used chmod +x and later tried random key and also string commands
 
-![](../_attachments/Pasted%20image%2020250628163453.png)
+![](../../_attachments/Pasted%20image%2020250628163453.png)
 
 
-![](../_attachments/Pasted%20image%2020250628170348.png)
+![](../../_attachments/Pasted%20image%2020250628170348.png)
 
 to analyse i used radare2 too
 
-![](../_attachments/Pasted%20image%2020250628170412.png)
+![](../../_attachments/Pasted%20image%2020250628170412.png)
 
 
 ```
@@ -229,12 +229,12 @@ to analyse i used radare2 too
 0x000011fd    6    159 sym.zoinkifyLogic
 0x00001000    3     23 sym._init
 ```
-![](../_attachments/Pasted%20image%2020250628171230.png)
+![](../../_attachments/Pasted%20image%2020250628171230.png)
 
-![](../_attachments/Pasted%20image%2020250628171250.png)
+![](../../_attachments/Pasted%20image%2020250628171250.png)
 
 
-![](../_attachments/Pasted%20image%2020250628174404.png)
+![](../../_attachments/Pasted%20image%2020250628174404.png)
 
 ---
 # ctf: Disk Message
@@ -243,7 +243,7 @@ The challenge provided a disk image (or file disguised as one). The name _Disk M
 Goal: extract the hidden message/flag `BMCTF{...}`.
 
 
-![](../_attachments/Pasted%20image%2020250628184421.png)
+![](../../_attachments/Pasted%20image%2020250628184421.png)
 
 ---
 # ctf: takiya
@@ -260,7 +260,7 @@ Output:
 `File Name        : takiya File Size        : 240 kB File Type        : TXT File Type Extension: txt MIME Type        : text/plain MIME Encoding    : us-ascii Line Count       : 1 Word Count       : 1`
 
 So the file is **just one huge ASCII line**.
-![](../_attachments/Pasted%20image%2020250628225747.png)
+![](../../_attachments/Pasted%20image%2020250628225747.png)
 
 ---
 

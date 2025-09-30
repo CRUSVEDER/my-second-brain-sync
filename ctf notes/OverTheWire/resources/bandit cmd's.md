@@ -5,7 +5,6 @@ A consolidated, non‑duplicated, detailed reference of commands we discussed. E
 > Tip: copy/paste examples and adjust paths, hostnames, or ports to your environment. Prefer working in a temp dir (`mktemp -d`) when manipulating challenge data.
 
 ---
-
 ## Contents
 
 - File handling & compression: `xxd`, `file`, `hexdump`, `tar`, `gzip`/`gunzip`, `bzip2`/`bunzip2`, `xz`/`unxz`, `zip`/`unzip`, `7z`
@@ -17,7 +16,6 @@ A consolidated, non‑duplicated, detailed reference of commands we discussed. E
 - Networking & remote access: `ssh`, `scp`, `sftp`, `openssl s_client`, `nc` (netcat), `ncat`, `socat`, `telnet`, `nmap`, `ss`, `netstat`
     
 - Utility & helpers: `man`, `ssh-agent`/`ssh-add`, `ssh-keygen`, `xargs`, `find`, `shred`, `uname`, `whoami`
-    
 
 ---
 

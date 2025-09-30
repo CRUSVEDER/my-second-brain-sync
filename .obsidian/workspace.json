@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf notes/OverTheWire/resources/bandit cmd's.md",
+                "file": "regex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bandit cmd's"
+              "title": "regex"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf notes/OverTheWire/resources/bandit cmd's.md",
+                "file": "regex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bandit cmd's"
+              "title": "Outline of regex"
             }
           },
           {
@@ -198,14 +198,16 @@
   },
   "active": "ecdeb42ae17d66d9",
   "lastOpenFiles": [
-    "ctf notes/OverTheWire/resources/Bandit & Networking Cheat Sheet (commands).md",
-    "ctf notes/OverTheWire/resources/bandit cmd's.md",
-    "ctf notes/OverTheWire/Wargames/1.Bandit.md",
-    "ctf notes/OverTheWire/resources",
-    "ctf notes/OverTheWire/Wargames/2.Natas.md",
-    "ctf notes/ctf basics.md",
+    "CTF Notes/OverTheWire/resources/bandit cmd's.md",
+    "test001/Untitled.md",
+    "regex.md",
+    "CTF Notes/OverTheWire/resources/Bandit & Networking Cheat Sheet (commands).md",
+    "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
+    "CTF Notes/OverTheWire/resources",
+    "CTF Notes/OverTheWire/Wargames/2.Natas.md",
+    "CTF Notes/ctf basics.md",
     "Blogs/PGP keys.md",
-    "ctf notes/misc",
+    "CTF Notes/misc",
     "Development/cyber-sec project in detail.md",
     "Development/Untitled.md",
     "Development/Cybersecurity projects noob to pro.md",
@@ -226,7 +228,6 @@
     "Network Security/Tcpdump(the basics)/Untitled 3.md",
     "Network Security/Tcpdump(the basics)/Introduction.md",
     "Network Security/Tcpdump(the basics)",
-    "test001/Untitled.md",
     "Blogs",
     "Google CS pro/files/tcpip-vs-osi-models.png",
     "Google CS pro/files/tcpdump.png",
@@ -237,7 +238,6 @@
     "Google CS pro/files/ipv4-packet.png",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
-    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/1 Protect data and communicate incidents.md",
     "Google CS pro/files",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs",
     "Google CS pro/7 Automate Cybersecurity Tasks with Python",

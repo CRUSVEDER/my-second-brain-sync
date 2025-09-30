@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "regex.md",
+                "file": "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "regex"
+              "title": "1.Bandit"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "regex.md",
+                "file": "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of regex"
+              "title": "Outline of 1.Bandit"
             }
           },
           {
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecdeb42ae17d66d9",
+  "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
+    "General Skills/Linux Commands.md",
+    "regex.md",
     "CTF Notes/OverTheWire/resources/bandit cmd's.md",
     "test001/Untitled.md",
-    "regex.md",
     "CTF Notes/OverTheWire/resources/Bandit & Networking Cheat Sheet (commands).md",
     "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
     "CTF Notes/OverTheWire/resources",
@@ -237,7 +238,6 @@
     "Google CS pro/files/ipv4-vs-ipv6.png",
     "Google CS pro/files/ipv4-packet.png",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/3 Communicate effectively to influence stakeholders.md",
-    "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs/2 Escalate incidents.md",
     "Google CS pro/files",
     "Google CS pro/8 Put it to Work - Prepare for Cybersecurity Jobs",
     "Google CS pro/7 Automate Cybersecurity Tasks with Python",

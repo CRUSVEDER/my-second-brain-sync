@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Untitled.md",
+                "file": "Tools/Jhon the Reaper/Custom Rules cheat-sheet.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Custom Rules cheat-sheet"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 253.5
   },
   "right": {
     "id": "548c75d4a5bb118a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ctf Notes/OverTheWire/Wargames/1.Bandit.md",
+                "file": "Blogs/PGP keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.Bandit"
+              "title": "Backlinks for PGP keys"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ctf Notes/OverTheWire/Wargames/1.Bandit.md",
+                "file": "Blogs/PGP keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.Bandit"
+              "title": "Outgoing links from PGP keys"
             }
           },
           {
@@ -128,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,10 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Untitled.md"
+                "file": "Tools/Jhon the Reaper/Custom Rules cheat-sheet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Custom Rules cheat-sheet"
             }
           },
           {
@@ -175,10 +181,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,54 +196,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecdeb42ae17d66d9",
+  "active": "b0e8aba4a585cbec",
   "lastOpenFiles": [
-    "Payloads",
-    "regex.md",
-    "Development/Untitled.md",
-    "Ctf Notes/misc/cyber arena.md",
-    "Ctf Notes/misc/Collections of CTF write-ups.md",
-    "Ctf Notes/misc/B side Mumbai CTF event 28.06.md",
-    "Ctf Notes/misc",
-    "Ctf Notes/OverTheWire/resources/bandit cmd's.md",
-    "Ctf Notes/OverTheWire/resources/Bandit & Networking Cheat Sheet (commands).md",
-    "Ctf Notes/OverTheWire/resources",
+    "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
+    "Tools/Jhon the Reaper/Custom Rules cheat-sheet.md",
+    "Tools/Jhon the Reaper",
+    "CTF Notes/OverTheWire/Wargames/2.Natas.md",
+    "CTF Notes/OverTheWire/resources/Bandit & Networking Cheat Sheet (commands).md",
+    "CTF Notes/OverTheWire/resources/bandit cmd's.md",
     "_attachments/sshkey17bandit.txt",
-    "Study Notes/python/refrence.md",
-    "Study Notes/python/Python Cheat Sheet.md",
-    "Study Notes/python/Functions.md",
-    "Study Notes/python",
-    "Study Notes/NFT/Q1 U1.md",
-    "Study Notes/NFT/NFT metadata format.md",
-    "Study Notes/NFT/2 chap notes.md",
-    "Study Notes/NFT/1 chap notes.md",
-    "Study Notes/NFT",
-    "Study Notes/IF/Untitled.md",
-    "Study Notes/IF",
-    "Study Notes/CSLLA/chap 3.md",
-    "Study Notes/CSLLA/chap 2.md",
-    "Study Notes/CSLLA/chap 1.md",
-    "Study Notes/CSLLA",
-    "Study Notes",
-    "Projects/Enhancements Features.md",
-    "Projects/Enhancements Improvement.md",
-    "Projects/project lists.md",
-    "Projects/Developing a vulnerability scanner.md",
-    "Development/Cybersecurity projects noob to pro.md",
+    "_attachments/sshkey17.txt",
+    "General Skills/Linux Commands.md",
+    "regex.md",
+    "test001/Untitled.md",
+    "CTF Notes/OverTheWire/resources",
+    "CTF Notes/ctf basics.md",
+    "Blogs/PGP keys.md",
+    "CTF Notes/misc",
     "Development/cyber-sec project in detail.md",
+    "Development/Untitled.md",
+    "Development/Cybersecurity projects noob to pro.md",
+    "Blogs/how to write malware.md",
+    "Malware/malacious python libraries.md",
+    "Malware/important libraries.md",
     "Development/Top 10 Python Libraries for Cybersecurity.md",
+    "conflict-files-obsidian-git.md",
     "Development",
+    "Malware/Day1 mawlare series.md",
+    "Malware/learn ip.md",
+    "Network Security/Tcpdump(the basics)/Displaying packets.md",
+    "Network Security/Wireshark(the basics)",
+    "Network Security/Tcpdump(the basics)/advanced filtering.md",
     "_attachments/5f04259cf9bf5b57aed2c476-1723126044024.svg",
+    "Network Security/Tcpdump(the basics)/filtering expressions.md",
+    "Network Security/Tcpdump(the basics)/Basic packet capture.md",
+    "Network Security/Tcpdump(the basics)/Untitled 3.md",
+    "Network Security/Tcpdump(the basics)/Introduction.md",
     "Network Security/Tcpdump(the basics)",
+    "Blogs",
+    "Google CS pro/files/tcpip-vs-osi-models.png",
+    "Google CS pro/files/tcpdump.png",
+    "Google CS pro/files/pyramidofpain.png",
+    "Google CS pro/files/provisioning.png",
+    "Google CS pro/files/malware.png",
+    "Google CS pro/files/ipv4-vs-ipv6.png",
+    "Google CS pro/files/ipv4-packet.png",
+    "Google CS pro/files",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
     "_attachments/Pasted image 20250628153333.png",
-    "_attachments/Pasted image 20250628225747.png",
-    "_attachments/Pasted image 20250628184421.png",
-    "_attachments/Pasted image 20250629112800.png",
-    "_attachments/Pasted image 20250817155429.png",
-    "_attachments/Pasted image 20250817154414.png",
-    "_attachments/Pasted image 20250817153552.png",
-    "_attachments/Pasted image 20250817152620.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

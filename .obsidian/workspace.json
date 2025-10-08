@@ -26,12 +26,15 @@
             "id": "ebb96b9fceee2d33",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Miscellaneous/Daedalos (an web desktop).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Daedalos (an web desktop)"
             }
           }
         ],
@@ -156,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Miscellaneous/Daedalos (an web desktop).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Daedalos (an web desktop)"
             }
           },
           {
@@ -210,6 +214,8 @@
   },
   "active": "ebb96b9fceee2d33",
   "lastOpenFiles": [
+    "Miscellaneous/Daedalos (an web desktop).md",
+    "Miscellaneous",
     "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
     "Tools/Jhon the Reaper/Custom Rules cheat-sheet.md",
     "Tools/Jhon the Reaper",
@@ -243,7 +249,6 @@
     "Network Security/Tcpdump(the basics)/filtering expressions.md",
     "Network Security/Tcpdump(the basics)/Basic packet capture.md",
     "Network Security/Tcpdump(the basics)/Untitled 3.md",
-    "Network Security/Tcpdump(the basics)/Introduction.md",
     "Network Security/Tcpdump(the basics)",
     "Blogs",
     "Google CS pro/files/tcpip-vs-osi-models.png",
@@ -253,7 +258,6 @@
     "Google CS pro/files/malware.png",
     "Google CS pro/files/ipv4-vs-ipv6.png",
     "Google CS pro/files/ipv4-packet.png",
-    "Google CS pro/files",
     "_attachments/1_PmnXg9LknftoBZexoKcAZQ.gif",
     "_attachments/Pasted image 20250628153333.png",
     "Untitled.canvas",

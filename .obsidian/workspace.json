@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Custom Rules cheat-sheet"
             }
+          },
+          {
+            "id": "ebb96b9fceee2d33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Jhon the Reaper/Custom Rules cheat-sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Custom Rules cheat-sheet"
+              "title": "Outline"
             }
           },
           {
@@ -196,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e8aba4a585cbec",
+  "active": "ebb96b9fceee2d33",
   "lastOpenFiles": [
     "CTF Notes/OverTheWire/Wargames/1.Bandit.md",
     "Tools/Jhon the Reaper/Custom Rules cheat-sheet.md",

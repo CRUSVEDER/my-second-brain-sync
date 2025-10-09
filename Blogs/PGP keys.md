@@ -1,5 +1,5 @@
 
-# 🔑 The Complete Guide to Public and Private Keys for Secure Communication
+# The Complete Guide to Public and Private Keys for Secure Communication
 
 In today’s interconnected world, **digital privacy** is no longer optional—it’s essential. Every time you send an email, transfer a file, or log in to a website, your data travels across servers, routers, and networks you don’t control. Without protection, it’s like sending your most private messages on a **postcard**—anyone handling it could read or alter its contents.
 
@@ -24,7 +24,7 @@ By the end, you’ll understand not just the theory but also the **practical ste
 
 ---
 
-## 🔒 Why Do We Need Public and Private Keys?
+## Why Do We Need Public and Private Keys?
 
 The earliest form of secure communication online used **symmetric encryption**. With symmetric systems:
 
@@ -65,7 +65,7 @@ The public/private key system does more than just protect messages. It also ensu
 
 ---
 
-### 🔐 Encryption & Decryption
+### Encryption & Decryption
 
 ```
    [Alice] ---(Encrypt with Bob's Public Key)---> [Encrypted Message] ---> [Bob]
@@ -82,7 +82,7 @@ The public/private key system does more than just protect messages. It also ensu
 
 ---
 
-### ✍️ Digital Signatures
+### Digital Signatures
 
 ```
    [Alice] ---(Sign with Private Key)---> [Signed Message] ---> [Bob]
@@ -99,7 +99,7 @@ The public/private key system does more than just protect messages. It also ensu
 
 ---
 
-### ⚡ Hybrid Encryption (Best of Both Worlds)
+### Hybrid Encryption (Best of Both Worlds)
 
 Public/private key operations are secure but **computationally heavy**. Encrypting large files with them would be inefficient. Instead, hybrid encryption is used in real-world systems.
 
@@ -125,7 +125,7 @@ Protocols like **PGP (Pretty Good Privacy)** and **TLS (the “lock” in HTTPS 
 
 ---
 
-## 🛠 Step-by-Step: Generating Key Pairs with GnuPG
+## Step-by-Step: Generating Key Pairs with GnuPG
 
 To use public/private keys in practice, you’ll need a tool. The most popular one is **GnuPG (GPG)**, a free, open-source implementation of the OpenPGP standard.
 
@@ -228,7 +228,7 @@ gpg --import theirpublickey.asc
 
 ---
 
-## 📩 Practical Usage
+## Practical Usage
 
 ### Encrypt a File
 
@@ -264,7 +264,7 @@ gpg --verify file.txt.sig
 
 ---
 
-## 🧠 Best Practices for Secure Key Management
+## Best Practices for Secure Key Management
 
 1. **Keep your private key private.** Never share it.
     
@@ -283,7 +283,7 @@ gpg --verify file.txt.sig
 
 ---
 
-## 🌍 Real-World Applications
+## Real-World Applications
 
 - **Email Security** → Journalists use PGP to protect sources.
     
@@ -300,7 +300,7 @@ gpg --verify file.txt.sig
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 Public and private key cryptography is the **foundation of modern internet security**. It solves the distribution problem of symmetric encryption and enables powerful features like digital signatures and hybrid encryption.
 

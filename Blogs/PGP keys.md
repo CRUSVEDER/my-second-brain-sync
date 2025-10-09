@@ -59,7 +59,7 @@ Now, if someone wants to send Bob a secure message, they encrypt it with **Bob�
 
 ---
 
-## ⚙️ How Public and Private Keys Work
+## How Public and Private Keys Work
 
 The public/private key system does more than just protect messages. It also ensures **authenticity** (knowing who sent the message) and **integrity** (ensuring the message wasn’t altered). Let’s explore the main processes.
 
@@ -317,13 +317,13 @@ Whether you’re an individual securing emails or an organization protecting cri
 
 ---
 
-# 🛠 Common Mistakes and Troubleshooting in Public/Private Key Cryptography
+# Common Mistakes and Troubleshooting in Public/Private Key Cryptography
 
 Even with the right tools, beginners (and sometimes even experienced users) often run into issues when using public/private keys. Below is a practical troubleshooting guide to help you avoid pitfalls and solve common problems.
 
 ---
 
-## ❌ Mistake 1: Forgetting the Private Key Passphrase
+ Mistake 1: Forgetting the Private Key Passphrase
 
 - **Symptom:** You generated a key pair but forgot the passphrase protecting your private key.
     
@@ -340,7 +340,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 2: Sharing the Wrong Key
+ Mistake 2: Sharing the Wrong Key
 
 - **Symptom:** Someone says they can’t decrypt your messages, or you can’t verify their signature.
     
@@ -361,7 +361,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 3: Using Expired Keys
+ Mistake 3: Using Expired Keys
 
 - **Symptom:** GPG refuses to encrypt or sign because your key is expired.
     
@@ -378,7 +378,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 4: Encrypting with the Wrong Key
+ Mistake 4: Encrypting with the Wrong Key
 
 - **Symptom:** You can’t decrypt a file someone sent you.
     
@@ -395,7 +395,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 5: Trust Level Not Set
+ Mistake 5: Trust Level Not Set
 
 - **Symptom:** You see warnings like _“There is no indication that this key belongs to the named user.”_
     
@@ -410,7 +410,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 6: Keyring Confusion
+ Mistake 6: Keyring Confusion
 
 - **Symptom:** You have multiple keys for the same person and aren’t sure which is valid.
     
@@ -429,7 +429,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 7: Lost Private Key
+ Mistake 7: Lost Private Key
 
 - **Symptom:** You no longer have the private key file but still receive encrypted messages.
     
@@ -444,7 +444,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 8: Signature Verification Fails
+ Mistake 8: Signature Verification Fails
 
 - **Symptom:** You receive an error saying _“BAD signature”_ when verifying a file.
     
@@ -461,7 +461,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 9: Not Verifying Fingerprints
+ Mistake 9: Not Verifying Fingerprints
 
 - **Symptom:** You trust a public key that looks real but could be fake.
     
@@ -476,7 +476,7 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
 
 ---
 
-## ❌ Mistake 10: Ignoring Backups
+ Mistake 10: Ignoring Backups
 
 - **Symptom:** You reinstall your system and lose all keys.
     
@@ -488,15 +488,3 @@ Even with the right tools, beginners (and sometimes even experienced users) ofte
         
     - Store in encrypted USB drives or password managers.
         
-
----
-
-## ✅ Quick Troubleshooting Checklist
-
-- Can’t decrypt? → Was the file encrypted with your **public key**?
-    
-- Can’t sign? → Do you have access to your **private key** and passphrase?
-    
-- Key expired? → Extend expiration and share the updated public key.
-    
-- Verification fails? → Check fingerprints and key authenticity.
